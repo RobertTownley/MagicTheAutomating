@@ -1,0 +1,6 @@
+# Project Stuff
+static
+
+__pycache__
+*.pyc
+

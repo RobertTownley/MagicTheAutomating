@@ -5,19 +5,19 @@ Island
 Plains
 Forest
 Mountain
-Island
-Plains
-Forest
-Mountain
-Azorius Chancery
-Gaea's Cradle
-Kessig Wolf Run
-Primal Beyond
-Cinder Glade
-Flamekin Village
-Naya Panorama
-Prismatic Vista
+Wandering Fumarole
+Alchemist's Refuge
+Steam Vents
+Bloodstained Mire
+Savannah
+Dark Depths
+Mystic Monastery
+Temple of Abandon
 Plateau
+Wasteland
+Boros Garrison
+Overgrown Farmland
+Vesuva
 Thespian's Stage
 Ghost Town
 Oboro, Palace in the Clouds
@@ -30,59 +30,59 @@ Snow-Covered Island
 Snow-Covered Forest
 Stormcarved Coast
 Dreamroot Cascade
-Carpet of Flowers
-Exotic Orchard
-Faeburrow Elder
-Krosan Verge
+Teferi's Protection
+Pyre of Heroes
+Sol Ring
 Multani, Yavimaya's Avatar
-Rootbound Crag
-Frontier Bivouac
-Solemn Simulacrum
-Splendid Reclamation
-Explosive Vegetation
-Cartographer's Survey
-Reshape the Earth
-Urban Evolution
-Sylvan Awakening
+Mana Confluence
+Arcane Denial
+Cinder Glade
+Nylea's Intervention
+Genesis Wave
+Sea Gate Restoration // Sea Gate, Reborn
+Windfall
+Turntimber Symbiosis // Turntimber, Serpentine Wood
+Bala Ged Recovery // Bala Ged Sanctuary
 Explore
 Scapeshift
 Rampant Growth
 Kodama's Reach
 Farseek
 Cultivate
-Eureka Moment
-Pact of Negation
-Heroic Intervention
-Eladamri's Call
-Double Major
-Crop Rotation
+Worldly Tutor
+Deprive
+Roiling Regrowth
+Ephemerate
+Silence
 Growth Spiral
 Harrow
 Counterspell
 Path to Exile
 Beast Within
 Wrenn and Seven
-Retreat to Emeria
-Garruk's Uprising
+Song of Creation
+Druid Class
 Zendikar's Roil
 Exploration
 Felidar Retreat
-Seer's Sundial
+Chromatic Orrery
 Crucible of Worlds
-Forgotten Ancient
-Ruin Crab
-Solitude
 Coiling Oracle
-Fertilid
-Rubblehulk
-Sun Titan
-Leafkin Druid
-Smokebraider
-Noble Hierarch
-Undergrowth Champion
-Oracle of Mul Daya
+Maja, Bretagard Protector
+Endurance
 Incandescent Soulstoke
-Obuun, Mul Daya Ancestor
+Roil Elemental
+Elvish Reclaimer
+Ruin Crab
+Soul of the Harvest
+Kodama of the East Tree
+Foundation Breaker
+Scaled Herbalist
+Leafkin Druid
+Sakura-Tribe Scout
+Cavalier of Flame
+Bane of Progress
+Omnath, Locus of the Roil
 Aesi, Tyrant of Gyre Strait
 Dryad of the Ilysian Grove
 Ancient Greenwarden

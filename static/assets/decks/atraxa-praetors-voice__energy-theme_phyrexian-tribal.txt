@@ -1,23 +1,23 @@
+Swamp
+Island
 Plains
 Forest
 Swamp
 Island
 Plains
 Forest
-Exotic Orchard
-Shattered Sanctum
-Llanowar Wastes
-Indatha Triome
-Hallowed Fountain
-Sea of Clouds
-Bountiful Promenade
-Phyrexian Tower
-Terramorphic Expanse
-Savannah
-Zagoth Triome
-Opal Palace
-Breeding Pool
-Rogue's Passage
+City of Brass
+Reflecting Pool
+Temple Garden
+Temple of Deceit
+Evolving Wilds
+Saltcrusted Steppe
+Rejuvenating Springs
+Cabal Stronghold
+Inventors' Fair
+Vivid Creek
+Cabal Coffers
+Arcane Sanctum
 Bojuka Bog
 Urborg, Tomb of Yawgmoth
 Temple of the False God
@@ -30,62 +30,62 @@ Karn's Bastion
 Deserted Beach
 Deathcap Glade
 Dreamroot Cascade
-Fabled Passage
-Norn's Annex
-Three Visits
-Mana Crypt
-Triumph of the Hordes
-Time Wipe
-Black Sun's Zenith
+Skyshroud Claim
+Vanquish the Horde
+Rampant Growth
+Agadeem's Awakening // Agadeem, the Undercrypt
+Merciless Eviction
 Farseek
 Cultivate
 Tezzeret's Gambit
-Harrow
-Swan Song
-Ignite the Beacon
-Unbounded Potential
-Teferi's Protection
+Grim Affliction
+Force of Will
+Disappearing Act
 Anguished Unmaking
 Counterspell
 Cyclonic Rift
 Swords to Plowshares
-Teferi, Time Raveler
-Garruk Wildspeaker
-Nissa, Voice of Zendikar
-Dovin Baan
-Tevesh Szat, Doom of Fools
-Teferi, Hero of Dominaria
-Ugin, the Spirit Dragon
+Sorin, Grim Nemesis
+Ajani Unyielding
+Tezzeret, Artifice Master
 Narset, Parter of Veils
 Teferi, Master of Time
 Tamiyo, Field Researcher
 Teferi, Who Slows the Sunset
-The Meathook Massacre
-Aid from the Cowl
-Phyrexian Arena
+Bred for the Hunt
+Teleportation Circle
+Phyrexian Scriptures
+Wilderness Reclamation
+Glistening Oil
+Smothering Tithe
 Oath of Teferi
 Rhystic Study
 Doubling Season
 Inexorable Tide
-Commander's Plate
-Darksteel Ingot
-Rings of Brighthearth
-Talisman of Curiosity
+Consulate Turret
+Jet Medallion
+Skullclamp
+Conjurer's Closet
+Decoction Module
+Lightning Greaves
 Sword of Truth and Justice
 Contagion Engine
 Everflowing Chalice
 Astral Cornucopia
 Arcane Signet
-Aetherwind Basker
+Multiform Wonder
+Aether Inspector
 Architect of the Untamed
-Bloom Tender
-Ghave, Guru of Spores
-Aethersquall Ancient
-Abzan Falconer
-Shipwreck Moray
-Thassa, Deep-Dwelling
-Ichor Rats
-Aether Poisoner
+Plague Myr
+Corpsejack Menace
+Eddytrail Hawk
+Noble Hierarch
+Elesh Norn, Grand Cenobite
+Aethertide Whale
+Greenbelt Rampager
+Yarok, the Desecrated
+Priests of Norn
+Pir, Imaginative Rascal
 Fathom Mage
 Crystalline Crawler
 Spark Double

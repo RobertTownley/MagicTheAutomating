@@ -1,4 +1,3 @@
-Island
 Plains
 Island
 Plains
@@ -14,14 +13,15 @@ Island
 Plains
 Island
 Plains
-Tranquil Cove
-Urza's Saga
-Eiganjo Castle
-Tectonic Edge
-Cave of the Frost Dragon
-Yavimaya, Cradle of Growth
-Marsh Flats
-Evolving Wilds
+Mana Confluence
+Azorius Guildgate
+Skycloud Expanse
+Meandering River
+Tundra
+Nesting Grounds
+Karn's Bastion
+Secluded Steppe
+Ghost Quarter
 Castle Vantress
 Endless Sands
 Windbrisk Heights
@@ -30,25 +30,23 @@ Mystic Sanctuary
 Reliquary Tower
 Cryptic Caves
 Deserted Beach
-Arcane Denial
-Kira, Great Glass-Spinner
-Archon of Emeria
-Jace, Wielder of Mysteries
-Curse of the Swine
-Ponder
-Storm of Souls
-Approach of the Second Sun
-Doomskar
+Midnight Clock
+God-Pharaoh's Statue
+Archaeomancer's Map
+The Chain Veil
+Exotic Orchard
+Karn's Temporal Sundering
+Alrund's Epiphany
+Idyllic Tutor
 Spectral Deluge
 Ravenform
 Hallowed Respite
-Ephemerate
-Teferi's Protection
-Aether Shockwave
-Kaya's Onslaught
-Semester's End
-Swords to Plowshares
-Geistlight Snare
+Heliod's Intervention
+Dovin's Veto
+Brainstorm
+Force of Will
+Flawless Maneuver
+Sudden Salvation
 Return to Dust
 Momentary Blink
 Ghostly Flicker
@@ -56,33 +54,35 @@ Behold the Multiverse
 Saw It Coming
 Eerie Interlude
 Cosmic Intervention
-Rally the Ranks
-Stasis
-Smothering Tithe
+Oath of Teferi
+Darksteel Mutation
+Intangible Virtue
 Reconnaissance Mission
 Teleportation Circle
 Ghostly Prison
-Expedition Map
+Sword of Feast and Famine
+Torpor Orb
 Thought Vessel
-Jeweled Lotus
-Gilded Lotus
+Mox Tantalite
+Honor-Worn Shaku
+Skullclamp
 Mind Stone
 Swiftfoot Boots
 Arcane Signet
 Sol Ring
-Drogskol Captain
-Mangara, the Diplomat
-Grand Abolisher
-Cemetery Illuminator
-Glowrider
-Hanged Executioner
-Remorseful Cleric
-Aven Mindcensor
-Angel of Flight Alabaster
-Empyrean Eagle
-Djeru, With Eyes Open
-Spell Queller
-Nikko-Onna
+Cathar Commando
+Leonin Arbiter
+Burnished Hart
+Elesh Norn, Grand Cenobite
+Amphin Mutineer
+Flux Channeler
+Spectral Shepherd
+Samurai of the Pale Curtain
+Whirler Rogue
+Linvala, Keeper of Silence
+Goldnight Commander
+Agent of Treachery
+Archaeomancer
 Cosmos Charger
 Glorious Protector
 Cloudblazer

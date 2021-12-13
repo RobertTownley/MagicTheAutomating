@@ -14,15 +14,14 @@ Forest
 Swamp
 Forest
 Swamp
-Forest
-Swamp
 Bayou
+Nesting Grounds
+Mosswort Bridge
+Marsh Flats
+Prismatic Vista
+Golgari Rot Farm
 Terramorphic Expanse
 Phyrexia's Core
-Geier Reach Sanitarium
-Arcane Lighthouse
-Volrath's Stronghold
-Power Depot
 Buried Ruin
 Bojuka Bog
 Darksteel Citadel
@@ -30,35 +29,37 @@ Inventors' Fair
 Tree of Tales
 Vault of Whispers
 Deathcap Glade
+Diregraf Rebirth
+Spread the Sickness
 Deadly Brew
-Caress of Phyrexia
+Read the Bones
+Bala Ged Recovery // Bala Ged Sanctuary
+Rampant Growth
 Demonic Tutor
 Cultivate
 Culling Ritual
-Deadly Rollick
-Golgari Charm
-Tragic Slip
-Assassin's Trophy
+Carrion Call
+Murder
 Putrefy
 Deadly Dispute
 Beast Within
-Ugin, the Ineffable
+Asceticism
+Oath of Liliana
 Revel in Riches
 Deathreap Ritual
 Phyrexian Scriptures
-Mirrorworks
-Golgari Locket
-Ichor Wellspring
-Golgari Signet
-Sensei's Divining Top
-Ratchet Bomb
-Rings of Brighthearth
-Crucible of Worlds
-Darksteel Plate
-Thran Temporal Gateway
-Cranial Plating
-Barbed Sextant
-Salvaging Station
+Semblance Anvil
+Mishra's Bauble
+Terrarion
+Lifecrafter's Bestiary
+Bolas's Citadel
+Mana Vault
+Altar of Dementia
+Mindslaver
+Nettlecyst
+Contagion Engine
+Chromatic Lantern
+Plague Boiler
 Soul-Guide Lantern
 Trading Post
 Commander's Sphere
@@ -72,19 +73,18 @@ Swiftfoot Boots
 Sol Ring
 Blood Fountain
 Moonsilver Key
-Corpse Cur
-Sheoldred, Whispering One
-Bloom Tender
-Poison-Tip Archer
-Hermit Druid
-Reki, the History of Kamigawa
-Flensermite
-Stitcher's Supplier
-Treasure Keeper
-Satyr Wayfinder
-Copper Myr
-Flesh-Eater Imp
-Jhoira's Familiar
+Syndicate Trafficker
+Core Prowler
+Meteor Golem
+Arcbound Ravager
+Fynn, the Fangbearer
+Vorinclex, Monstrous Raider
+Hope of Ghirapur
+Rot Wolf
+Reclamation Sage
+Ravenous Squirrel
+Necropede
+Shimmer Myr
 Armix, Filigree Thrasher
 Wurmcoil Engine
 Burnished Hart

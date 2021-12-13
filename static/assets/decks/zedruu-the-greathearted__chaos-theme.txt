@@ -1,4 +1,3 @@
-Island
 Plains
 Mountain
 Island
@@ -11,16 +10,17 @@ Island
 Plains
 Mountain
 Island
-Boros Garrison
-Glacial Fortress
-Deserted Beach
-Exotic Orchard
-Glacial Chasm
-Irrigated Farmland
-Sacred Foundry
-Buried Ruin
-Tranquil Cove
-Mistveil Plains
+Plains
+Mountain
+Island
+Great Furnace
+Lonely Sandbar
+Riverglide Pathway // Lavaglide Pathway
+Myriad Landscape
+Steam Vents
+Fabled Passage
+Azorius Chancery
+Arcane Lighthouse
 Maze of Ith
 Mikokoro, Center of the Sea
 Temple of the False God
@@ -30,34 +30,34 @@ Hall of Heliod's Generosity
 Reliquary Tower
 Sundown Pass
 Stormcarved Coast
-Windfall
-Dance of the Manse
-Disrupt Decorum
-Mob Rule
+Vandalblast
+Niv-Mizzet, the Firemind
+Oblation
+Thieves' Auction
+Solve the Equation
+Mana Clash
+Game of Chaos
 Supreme Verdict
 Political Trickery
 Approach of the Second Sun
 Harmless Offering
 Role Reversal
-Wear // Tear
-Desperate Gambit
-Chef's Kiss
-Chaotic Strike
+Soul's Fire
+Wild Ricochet
+Swan Song
 Counterspell
 Wrong Turn
 Swords to Plowshares
 Sudden Substitution
-Confusion in the Ranks
-Grasp of Fate
-Stasis Snare
-Pyromancer's Swath
-Leyline of Anticipation
-Wizard Class
-Delusions of Mediocrity
-Embargo
-Wild Research
-Gift of Immortality
-Smothering Tithe
+Smoke
+Oblivion Ring
+Hive Mind
+Land Tax
+Dictate of Kruphix
+Shared Fate
+Eye of the Storm
+Underworld Breach
+Bitter Feud
 Propaganda
 Statecraft
 Illusions of Grandeur
@@ -67,13 +67,12 @@ Paradox Haze
 Nine Lives
 Ghostly Prison
 Borrowed Time
-Talisman of Conviction
-Gate to the Aether
-Timesifter
-Mind Stone
 Izzet Signet
-Archaeomancer's Map
-Whispersilk Cloak
+Crooked Scales
+Gate to the Aether
+Chaos Wand
+Loxodon Warhammer
+Lithoform Engine
 Lightning Greaves
 Howling Mine
 Thought Vessel
@@ -81,14 +80,15 @@ Pendant of Prosperity
 Bucknard's Everfull Purse
 Teferi's Puzzle Box
 Wedding Ring
-Daring Thief
-Kazuul, Tyrant of the Cliffs
-Goblin Kaboomist
-Goblin Cadets
-Body of Knowledge
-Baird, Steward of Argive
-Keeper of the Accord
-Nadir Kraken
+Thassa's Oracle
+Knight of the White Orchid
+Felidar Sovereign
+Chaotic Goo
+Zedruu the Greathearted
+Silent Arbiter
+Bronze Bombshell
+Treasure Nabber
+Grid Monitor
 Rust Elemental
 Steel Golem
 Akroan Horse

@@ -17,12 +17,12 @@ Swamp
 Plains
 Swamp
 Plains
-Shambling Vent
-Maze of Ith
-Mistveil Plains
-Forsaken Sanctuary
-Barren Moor
-Orzhov Guildgate
+Myriad Landscape
+Godless Shrine
+Kor Haven
+Fabled Passage
+Secluded Steppe
+Arcane Lighthouse
 Castle Ardenvale
 Castle Locthwain
 Westvale Abbey // Ormendahl, Profane Prince
@@ -30,56 +30,56 @@ Urborg, Tomb of Yawgmoth
 Vault of the Archangel
 Bojuka Bog
 Shattered Sanctum
-Deadly Dispute
-Vow of Torment
-Exsanguinate
-Unearth
-Council's Judgment
-Death Grasp
-Blot Out the Sky
-Merciless Eviction
+Cliffhaven Vampire
+Grave Pact
+Vindicate
+Wrath of God
+Dire Tactics
+Liliana, Heretical Healer // Liliana, Defiant Necromancer
+War Room
+Infernal Offering
+Can't Stay Away
+Buried Alive
 Fumigate
 Debt to the Deathless
 Damn
 Reanimate
-Doom Blade
 Raise the Draugr
+Tragic Slip
 Despark
 Anguished Unmaking
 Swords to Plowshares
+Elspeth, Sun's Champion
 Sorin, Vengeful Bloodlord
-Dreadhorde Invasion
-Land Tax
-Rite of Belzenlok
+Phyrexian Reclamation
+Ajani's Welcome
+Aurification
 Blind Obedience
 Sanguine Bond
 Dawn of Hope
 The Meathook Massacre
-Temple Bell
+Door of Destinies
 Altar of Dementia
-Tempting Contract
-Spectral Searchlight
-Phyrexian Processor
-Bolas's Citadel
+Expedition Map
+Lotus Petal
 Aetherflux Reservoir
 Skullclamp
 Talisman of Hierarchy
 Well of Lost Dreams
-Felisa, Fang of Silverquill
-Fain, the Broker
-Yawgmoth, Thran Physician
-Speaker of the Heavens
+Windborn Muse
+Esper Sentinel
+Karlov of the Ghost Council
 Knight of the White Orchid
-Orah, Skyclave Hierophant
-Author of Shadows
-Magister of Worth
-Magus of the Moat
-Reassembling Skeleton
-Karmic Guide
-Scholarship Sponsor
+Doomed Necromancer
+Crested Sunmare
+Speaker of the Heavens
+Whisper, Blood Liturgist
+Ayli, Eternal Pilgrim
 Blazing Archon
-Keen Duelist
-Demon's Disciple
+Archangel of Tithes
+Tymna the Weaver
+Alms Collector
+Selfless Spirit
 Cabal Archon
 Serra Ascendant
 Gray Merchant of Asphodel

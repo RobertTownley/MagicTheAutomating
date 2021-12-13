@@ -13,35 +13,39 @@ Island
 Forest
 Island
 Forest
-Snow-Covered Forest
-Botanical Sanctum
-Simic Guildgate
-Dryad Arbor
-Rogue's Passage
-Snow-Covered Island
+Island
+Forest
+Island
+Forest
+Fabled Passage
+Breeding Pool
+Guildless Commons
+Path of Ancestry
+Academy Ruins
+Strip Mine
+Castle Garenbrig
 Alchemist's Refuge
 Yavimaya, Cradle of Growth
 Ancient Tomb
 Reliquary Tower
 Treasure Vault
 Dreamroot Cascade
+Homeward Path
+Narset's Reversal
+Joraga Treespeaker
+Drift of Phantasms
+Door of Destinies
+Turntimber Symbiosis // Turntimber, Serpentine Wood
 Migration Path
-Natural Order
-Vastwood Surge
-Preordain
-Ponder
 Finale of Devastation
 Fabricate
-Spell Pierce
-Mental Misstep
-Pongify
-Mana Drain
-Rapid Hybridization
-Into the Roil
-Negate
-Double Major
-Worldly Tutor
+Harrow
+Eureka Moment
 Swan Song
+Double Major
+Heroic Intervention
+Blue Sun's Zenith
+Inspiring Call
 Brainstorm
 Cyclonic Rift
 Dramatic Reversal
@@ -49,40 +53,36 @@ Mystical Tutor
 Counterspell
 Geistwave
 Drown in Dreams
-Song of the Dryads
-Leyline of Abundance
-Training Grounds
+Exploration
+Mystic Remora
+Rites of Flourishing
 Rhystic Study
 Pemmin's Aura
 Freed from the Real
-Mind Stone
-Mox Opal
-Sensei's Divining Top
-Coat of Arms
-Simic Locket
-Sword of the Paruns
-Isochron Scepter
+Mox Amber
+Simic Signet
+Bident of Thassa
+Crucible of Worlds
+Thought Vessel
 Talisman of Curiosity
 Basalt Monolith
 Arcane Signet
 Sol Ring
 Moonsilver Key
-Scaled Herbalist
 Wirewood Symbiote
-Joraga Treespeaker
-Immaculate Magistrate
-Walking Ballista
-Leafkin Druid
-Kodama of the East Tree
-Allosaurus Shepherd
-Elvish Archdruid
-Blightsteel Colossus
-Sanctum Weaver
-Prophet of Distortion
-Cultivator Colossus
-Ashaya, Soul of the Wild
-Oracle of Mul Daya
-Nyxbloom Ancient
+Wellwisher
+Avenger of Zendikar
+Yeva, Nature's Herald
+Marwyn, the Nurturer
+Elvish Visionary
+Tireless Tracker
+Canopy Tactician
+Sakura-Tribe Elder
+Jagged-Scar Archers
+Ornithopter of Paradise
+Hydroid Krasis
+Ulamog, the Infinite Gyre
+Courser of Kruphix
 Priest of Titania
 Sylvan Caryatid
 Seedborn Muse

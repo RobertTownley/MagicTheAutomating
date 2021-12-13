@@ -1,5 +1,3 @@
-Island
-Forest
 Swamp
 Island
 Forest
@@ -7,18 +5,21 @@ Swamp
 Island
 Forest
 Swamp
-Temple of the False God
-Jungle Hollow
-Clearwater Pathway // Murkwater Pathway
-Westvale Abbey // Ormendahl, Profane Prince
-Lumbering Falls
-Sunken Hollow
-Alchemist's Refuge
+Island
+Forest
+Swamp
+Island
+Forest
+Swamp
+Temple of Malady
+Grim Backwoods
+Ghost Quarter
+Krosan Verge
 Lotus Field
-Guildless Commons
-Glacial Chasm
-Tranquil Thicket
-Reliquary Tower
+Watery Grave
+Dimir Aqueduct
+Wooded Foothills
+Opulent Palace
 Dakmor Salvage
 Field of the Dead
 Yavimaya, Cradle of Growth
@@ -29,58 +30,57 @@ Bojuka Bog
 Phyrexian Tower
 Deathcap Glade
 Dreamroot Cascade
-Explosive Vegetation
-Toxic Deluge
+Skyshroud Claim
+Skyclave Pick-Axe
+Rishkar's Expertise
+Windfall
+Farseek
+Living Death
+Cultivate
 Demonic Tutor
 Buried Alive
 Life from the Loam
-Kamahl's Will
-Golgari Charm
-Windgrace's Judgment
-Assassin's Trophy
-Entomb
+Drown in Dreams
 Counterspell
 Cyclonic Rift
-Vraska, Golgari Queen
-Liliana, the Last Hope
-Ashiok, Dream Render
-Liliana, Death's Majesty
 Wrenn and Seven
-Binding the Old Gods
-Phyrexian Arena
-Reflections of Littjara
-Deathreap Ritual
+Dreadhorde Invasion
+Search for Azcanta // Azcanta, the Sunken Ruin
+Aqueous Form
+Deadbridge Chant
+Exploration
 Animate Dead
 Secrets of the Dead
 Kaya's Ghostform
 Pernicious Deed
 Seal of Primordium
-Mox Diamond
-Sultai Banner
-Wand of Orcus
-Aether Spellbomb
+Zagoth Crystal
+Sword of the Animist
+Executioner's Capsule
+Prowler's Helm
+Swiftfoot Boots
+Desecrated Tomb
+Wayfarer's Bauble
 Ashnod's Altar
 Nevinyrral's Disk
 Perpetual Timepiece
 Altar of Dementia
 Lightning Greaves
+Eternal Skylord
+Undergrowth Champion
+Gray Merchant of Asphodel
+Darksteel Myr
+Farhaven Elf
+Diregraf Colossus
+Wilhelt, the Rotcleaver
+Glistener Elf
+Solemn Simulacrum
+Archghoul of Thraben
+Undead Warchief
+Evolution Sage
+Laboratory Maniac
 Yarok, the Desecrated
-Skithiryx, the Blight Dragon
-Acererak the Archlich
-Graveborn Muse
-Gleaming Overseer
-Sawtusk Demolisher
-Multani, Yavimaya's Avatar
-Thrun, the Last Troll
-Boneyard Lurker
-Champion of the Perished
-Silhana Ledgewalker
-Souvenir Snatcher
-Opposition Agent
-Parcelbeast
-Merciless Executioner
-Tatyova, Benthic Druid
-Glen Elendra Archmage
+Migratory Greathorn
 Ravenous Chupacabra
 Satyr Wayfinder
 Reclamation Sage

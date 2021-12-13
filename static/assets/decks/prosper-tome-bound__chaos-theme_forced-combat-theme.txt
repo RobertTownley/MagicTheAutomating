@@ -1,4 +1,3 @@
-Mountain
 Swamp
 Mountain
 Swamp
@@ -12,29 +11,34 @@ Mountain
 Swamp
 Mountain
 Swamp
-Graven Cairns
+Mountain
+Swamp
+Mountain
+Swamp
+Mountain
+Swamp
+Mountain
+Swamp
+Mana Confluence
 Great Furnace
-Shadowblood Ridge
-Command Tower
-Bloodstained Mire
-Urza's Saga
-Castle Embereth
-Underdark Rift
-Urborg, Tomb of Yawgmoth
+Swarmyard
+Zhalfirin Void
+Dragonskull Summit
 Treasure Vault
 Mortuary Mire
 Spinerock Knoll
 Bojuka Bog
 Snow-Covered Swamp
 Haunted Ridge
-Praetor's Grasp
-Warp World
-Besmirch
-Insurrection
-Scheming Symmetry
-Read the Bones
-Crackle with Power
-Feed the Swarm
+Danse Macabre
+Evolving Wilds
+Strike It Rich
+Wheel of Fortune
+Tempt with Vengeance
+Sign in Blood
+Profane Tutor
+Last One Standing
+Hex
 Jeska's Will
 Fevered Suspicion
 Light Up the Stage
@@ -42,50 +46,46 @@ Ignite the Future
 Blasphemous Act
 Vandalblast
 Reckless Impulse
-Soul's Fire
-Malakir Rebirth // Malakir Mire
-Terminate
-Bituminous Blast
-Hagra Mauling // Hagra Broodpit
+Dual Strike
+Reverberate
+Sudden Spoiling
+Cabal Ritual
 Hurl Through Hell
 You Find Some Prisoners
 Chaos Warp
 Commune with Lava
 Infernal Grasp
-Lolth, Spider Queen
+Chandra, Dressed to Kill
 Chandra, Fire Artisan
 Chandra, Torch of Defiance
-Impulsive Maneuvers
-Revenge of Ravens
-Curse of Opulence
+Grip of Chaos
+Vow of Malice
 Revel in Riches
 Theater of Horrors
 Curse of Hospitality
-Pendant of Prosperity
-Teferi's Puzzle Box
-Sol Talisman
-Crooked Scales
-Uba Mask
-Gate to the Aether
-Fiendlash
-Lightning Greaves
-Chaos Wand
+Loxodon Warhammer
+Lithoform Engine
+Wayfarer's Bauble
+Bolas's Citadel
+Boompile
 Mind Stone
 Fellwar Stone
 Talisman of Indulgence
 Arcane Signet
 Sol Ring
+Hellkite Tyrant
 Fiend of the Shadows
-Disciple of the Vault
-Royal Assassin
-Draugr Necromancer
-Kardur, Doomscourge
-Magda, Brazen Outlaw
-Academy Manufactor
-Goldspan Dragon
-Author of Shadows
 Warmonger Hellkite
-Murderous Rider
+Skullport Merchant
+Nadier's Nightblade
+Emberwilde Captain
+Psychosis Crawler
+Academy Manufactor
+Goblin Engineer
+Dread
+Grenzo, Havoc Raiser
+Frenzied Saddlebrute
+Birgi, God of Storytelling // Harnfel, Horn of Bounty
 Xorn
 Wild-Magic Sorcerer
 Mayhem Devil

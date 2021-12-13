@@ -1,0 +1,100 @@
+Island
+Plains
+Forest
+Island
+Plains
+Forest
+Island
+Plains
+Forest
+Tranquil Cove
+Exotic Orchard
+Flooded Grove
+Temple of Mystery
+Rogue's Passage
+Adarkar Wastes
+Simic Guildgate
+Arctic Treeline
+Barkchannel Pathway // Tidechannel Pathway
+Brushland
+Gavony Township
+Castle Vantress
+Strip Mine
+Arcane Lighthouse
+Ancient Tomb
+Yavimaya, Cradle of Growth
+Temple of the False God
+Minamo, School at Water's Edge
+Alchemist's Refuge
+Reliquary Tower
+Overgrown Farmland
+Deserted Beach
+Dreamroot Cascade
+Altar of the Brood
+Voidslime
+Hornet Queen
+Doomskar
+Preordain
+Idyllic Tutor
+Kodama's Reach
+Farseek
+Cultivate
+Hallowed Respite
+Path to Exile
+Force of Will
+Momentary Blink
+Illusionist's Stratagem
+Disallow
+Ghostly Flicker
+Ephemerate
+Eerie Interlude
+Swords to Plowshares
+Disorder in the Court
+Act of Authority
+Elspeth Conquers Death
+Aura Shards
+Guardian Project
+Teleportation Circle
+Bident of Thassa
+The Great Henge
+Mox Amber
+Crystal Chimes
+Panharmonicon
+Swiftfoot Boots
+Arcane Signet
+Sol Ring
+Auramancer
+Heliod, God of the Sun
+Verduran Enchantress
+Wandering Archaic // Explore the Vastlands
+Celestial Ancient
+Knight of Autumn
+Shalai, Voice of Plenty
+Spirit of the Labyrinth
+Skyclave Apparition
+Tocatli Honor Guard
+Perplexing Chimera
+Eutropia the Twice-Favored
+Ephara, God of the Polis
+Nylea's Colossus
+Eidolon of Rhetoric
+Elvish Rejuvenator
+Archon of Sun's Grace
+Yorion, Sky Nomad
+Sun Titan
+Deadeye Navigator
+Reclamation Sage
+Eternal Witness
+Thragtusk
+Reflector Mage
+Thassa, Deep-Dwelling
+Wood Elves
+Acidic Slime
+Brago, King Eternal
+Farhaven Elf
+Coiling Oracle
+Cloudblazer
+Mulldrifter
+Soulherder
+Craterhoof Behemoth
+Roon of the Hidden Realm

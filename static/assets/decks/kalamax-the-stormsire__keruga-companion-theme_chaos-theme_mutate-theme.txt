@@ -1,5 +1,3 @@
-Forest
-Mountain
 Island
 Forest
 Mountain
@@ -11,15 +9,17 @@ Forest
 Mountain
 Island
 Forest
-Spire Garden
-Great Furnace
-Kher Keep
-Raging Ravine
-Tolaria West
+Bonders' Enclave
+Temple of Epiphany
+Command Tower
+Rockfall Vale
 Taiga
-Karplusan Forest
-Sandstone Needle
-Riverglide Pathway // Lavaglide Pathway
+Treetop Village
+Homeward Path
+Terrain Generator
+Fabled Passage
+Boseiju, Who Shelters All
+Oran-Rief, the Vastwood
 Rogue's Passage
 Desolate Lighthouse
 Mosswort Bridge
@@ -30,30 +30,29 @@ Reliquary Tower
 Kessig Wolf Run
 Dreamroot Cascade
 Stormcarved Coast
-Mogg Assassin
-Reclamation Sage
-Frontier Bivouac
-Regrowth
-Three Visits
-Nature's Lore
+Warp World
+Gamble
+Flood of Tears
+Road // Ruin
 Solve the Equation
 Rampant Growth
 Farseek
-Artifact Mutation
-Hunter's Insight
 Negate
-Pull from Tomorrow
-Fierce Guardianship
-Spring // Mind
-Prismari Command
-Chemister's Insight
-Twincast
-Flusterstorm
-Roiling Regrowth
-Ghostly Flicker
+Bolt Bend
+Reiterate
 Curious Herd
-Return to Nature
-Reins of Power
+Perplexing Test
+Krosan Grip
+Nexus of Fate
+Repeated Reverberation
+Muddle the Mixture
+Swan Song
+Prophetic Bolt
+Unleash Fury
+Cyclonic Rift
+Snap
+Decoy Gambit
+Eureka Moment
 Brainstorm
 Chaos Warp
 Deflecting Swat
@@ -70,27 +69,28 @@ Beast Within
 Frantic Search
 Consider
 Galvanic Iteration
+Vivien, Champion of the Wilds
+Saheeli, Sublime Artificer
 Ral, Storm Conduit
-Asceticism
-Elemental Bond
+Paradox Haze
+Confusion in the Ranks
+Zendikar Resurgent
+Thousand-Year Storm
+Swarm Intelligence
 Double Vision
 Wilderness Reclamation
-Thran Dynamo
-Talisman of Impulse
-Venser's Journal
-Isochron Scepter
+Wizard's Spellbook
+Lightning Greaves
+The Magic Mirror
 Springleaf Drum
 Twinning Staff
 Arcane Signet
 Sol Ring
-Peregrine Drake
-Scute Swarm
-Vadrik, Astral Archmage
-Zndrsplt, Eye of Wisdom
-Cloudpiercer
-Uro, Titan of Nature's Wrath
-Terror of the Peaks
-Goblin Electromancer
+Cultivator Colossus
+Perplexing Chimera
+Kiki-Jiki, Mirror Breaker
+Avenger of Zendikar
+Llanowar Visionary
 Dualcaster Mage
 Storm-Kiln Artist
 Talrand, Sky Summoner

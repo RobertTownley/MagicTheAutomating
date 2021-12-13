@@ -5,17 +5,20 @@ Mountain
 Swamp
 Plains
 Mountain
+Swamp
+Plains
+Mountain
+Isolated Chapel
+Temple of Malice
+Fetid Heath
 Eiganjo Castle
-Shizo, Death's Storehouse
-Blood Crypt
-Marsh Flats
-Windswept Heath
-Untaidake, the Cloud Keeper
-Needleverge Pathway // Pillarverge Pathway
-Sundown Pass
-Scoured Barrens
-Shinka, the Bloodsoaked Keep
+Shattered Sanctum
+Brightclimb Pathway // Grimclimb Pathway
+Tainted Field
 Polluted Delta
+Scoured Barrens
+Blood Crypt
+Tyrite Sanctum
 Temple of the False God
 Ancient Tomb
 Westvale Abbey // Ormendahl, Profane Prince
@@ -27,59 +30,56 @@ Urborg, Tomb of Yawgmoth
 Bojuka Bog
 Phyrexian Tower
 Voldaren Estate
-Feed the Swarm
-Crux of Fate
-Ambition's Cost
+Temple of Triumph
+Syphon Mind
+Blood Tribute
+Sinister Waltz
 Damn
 Merciless Eviction
 New Blood
-Despark
-Boros Charm
-Dark Ritual
-Heliod's Intervention
+Terminate
+Dire Tactics
+Return to Dust
+Unbreakable Formation
+Crackling Doom
 Mortify
 Teferi's Protection
 Anguished Unmaking
 Swords to Plowshares
+Sorin, Solemn Visitor
 Sorin, Imperious Bloodlord
-Cathars' Crusade
-Blind Obedience
-Impact Tremors
-Underworld Connections
-Shared Animosity
-Sanguine Bond
+Crucible of Fire
+The Meathook Massacre
 Anointed Procession
 Legion's Landing // Adanto, the First Fort
-Talisman of Hierarchy
-Fellwar Stone
-Chromatic Orrery
-Mox Amber
-Bontu's Monument
+Phyrexian Altar
+Commander's Sphere
+Blackblade Reforged
+Pyre of Heroes
+Well of Lost Dreams
+Arcane Signet
 Coat of Arms
 Herald's Horn
 Blade of the Bloodchief
 Door of Destinies
 Vanquisher's Banner
 Skullclamp
-Cemetery Gatekeeper
+Indulging Patrician
+Scion of Opulence
+Queen Marchesa
+Dusk Legion Zealot
 Twilight Prophet
-Bloodtithe Harvester
-Stromkirk Noble
-Nullpriest of Oblivion
-Metallic Mimic
-Dark Impostor
-Crossway Troublemakers
-Olivia, Crimson Bride
-General's Enforcer
-Vampire Nighthawk
-Olivia Voldaren
-Falkenrath Gorger
-Anowon, the Ruin Sage
-Timothar, Baron of Bats
-Blood Seeker
-Bloodghast
-Midnight Arsonist
+Bloodline Necromancer
 Vito, Thorn of the Dusk Rose
+Falkenrath Pit Fighter
+Blood Seeker
+Midnight Arsonist
+Nullpriest of Oblivion
+Teshar, Ancestor's Apostle
+Gifted Aetherborn
+Drana, Kalastria Bloodchief
+Necropolis Regent
+Thalia, Heretic Cathar
 Rakish Heir
 Mavren Fein, Dusk Apostle
 Drana, Liberator of Malakir

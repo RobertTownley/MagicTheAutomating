@@ -2,22 +2,22 @@ Mountain
 Swamp
 Island
 Plains
-Mountain
-Swamp
-Island
-Plains
-Rustvale Bridge
+Sunhome, Fortress of the Legion
+Mystic Monastery
+Polluted Delta
+Savai Triome
+Vault of Champions
+Bloodstained Mire
 Temple of Triumph
-Urza's Mine
-City of Brass
+Sulfur Falls
+Temple of the False God
+Fabled Passage
+Urza's Tower
+Urza's Power Plant
+Raugrin Triome
 Glacial Fortress
-Scalding Tarn
-Crumbling Necropolis
-Battlefield Forge
-Command Tower
-Phyrexia's Core
-Boros Garrison
-Rogue's Passage
+Urza's Saga
+Treasure Vault
 Academy Ruins
 Buried Ruin
 Darksteel Citadel
@@ -30,42 +30,42 @@ Deserted Beach
 Shattered Sanctum
 Shipwreck Marsh
 Stormcarved Coast
-Despark
-Experimental Aviator
-Brass's Bounty
-Blasphemous Act
-Fumigate
-Replication Technique
-Open the Vaults
-Trash for Treasure
+Boros Garrison
+Saheeli's Directive
+Distant Melody
 Demonic Tutor
 Fabricate
-Master's Call
-Masterful Replication
-Swan Song
-Chaos Warp
-Fierce Guardianship
+Galvanic Blast
+Red Elemental Blast
+Dark Ritual
+Spell Swindle
+Dramatic Reversal
+Cackling Counterpart
+Dispatch
 Enlightened Tutor
 Whir of Invention
 Counterspell
 Cyclonic Rift
 Swords to Plowshares
-Dovin, Grand Arbiter
+Tezzeret, Agent of Bolas
+Saheeli, the Gifted
+Tezzeret, Master of the Bridge
 Daretti, Scrap Savant
-Revel in Riches
-Shared Animosity
-Thopter Spy Network
+Parasitic Implant
+Mechanized Production
 Storm the Vault // Vault of Catlacan
 Smothering Tithe
-Sculpting Steel
-Scourglass
-Door of Destinies
-Helm of the Host
+Mana Vault
+Mycosynth Lattice
+Talisman of Dominance
+Genesis Chamber
+Nevinyrral's Disk
+Wishclaw Talisman
 Myr Reservoir
-Chromatic Lantern
-Icon of Ancestry
+Unwinding Clock
+Nihil Spellbomb
+Talisman of Conviction
 Darksteel Forge
-Boros Signet
 Nim Deathmantle
 Krark-Clan Ironworks
 Sword of the Meek
@@ -75,17 +75,17 @@ Ashnod's Altar
 Thopter Foundry
 Skullclamp
 Moonsilver Key
-Myr Moonvessel
-Etherium Spinner
-Phyrexian Metamorph
-Myr Retriever
-Brass Squire
-Omega Myr
-Darksteel Myr
-Reckless Fireweaver
-Hovermyr
-Breya, Etherium Shaper
+Tribute Mage
+Thopter Assembly
+Adaptive Automaton
+Breya's Apprentice
+Leaden Myr
+Sharuum the Hegemon
+Lodestone Myr
 Sharding Sphinx
+Omega Myr
+Teshar, Ancestor's Apostle
+Mycosynth Golem
 Emry, Lurker of the Loch
 Baleful Strix
 Solemn Simulacrum

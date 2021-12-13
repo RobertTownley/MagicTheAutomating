@@ -1,4 +1,3 @@
-Mountain
 Island
 Mountain
 Island
@@ -16,44 +15,40 @@ Mountain
 Island
 Mountain
 Island
-Mountain
-Island
+Vivid Creek
+Minamo, School at Water's Edge
 Steam Vents
-Ash Barrens
-Arid Mesa
-Command Tower
-Scalding Tarn
-Snow-Covered Mountain
+Inventors' Fair
+Frostboil Snarl
 Castle Vantress
 Forgotten Cave
 Lonely Sandbar
 Mystic Sanctuary
 Reliquary Tower
 Stormcarved Coast
-Temple of the False God
-Trophy Mage
-Twinflame
-Pyroclasm
-Merchant Scroll
-Temporal Mastery
-Squee's Revenge
-Stitch in Time
+Flood of Tears
+Temporal Trespass
+Ugin's Insight
+Serum Visions
+Divination
 Treasure Cruise
 Windfall
 Faithless Looting
 Preordain
 Ponder
 Vandalblast
-Wizard's Lightning
-Misdirection
-Mission Briefing
-Narset's Reversal
-Rapid Hybridization
-Blink of an Eye
-Dizzy Spell
-Spell Pierce
-Wizard's Retort
-Swan Song
+Wrong Turn
+Chef's Kiss
+Telling Time
+Ghostly Flicker
+Chaotic Strike
+Radical Idea
+Magma Jet
+High Tide
+Counterflux
+Ionize
+Wash Away
+Chaos Warp
 Expansion // Explosion
 Arcane Denial
 Cyclonic Rift
@@ -65,31 +60,36 @@ Mystical Tutor
 Frantic Search
 Counterspell
 Consider
-Jace's Sanctum
-Omen of the Sea
+Jace, Mirror Mage
+Jace, Wielder of Mysteries
+Ral, Storm Conduit
+Narset, Parter of Veils
+Flameshadow Conjuring
+Mirror March
+Goblin Festival
+Wizard Class
+Rhystic Study
+Teferi's Ageless Insight
 Ophidian Eye
 Curiosity
-Lithoform Engine
-Caged Sun
-Herald's Horn
-Pyxis of Pandemonium
-Kefnet's Monument
-Mind Stone
+Thought Vessel
+Sky Diamond
+Treasure Chest
+Helm of the Host
+Fellwar Stone
 The Magic Mirror
 Lightning Greaves
 Isochron Scepter
 Primal Amulet // Primal Wellspring
 Commander's Sphere
 Talisman of Creativity
-Sigiled Starfish
-Cavalier of Gales
-Karplusan Minotaur
-Drift of Phantasms
-Tribute Mage
-Spark Double
-Goblin Traprunner
-Okaun, Eye of Chaos
-Archmage Emeritus
+Yusri, Fortune's Flame
+Thermo-Alchemist
+Teferi, Mage of Zhalfir
+Thassa's Oracle
+Lier, Disciple of the Drowned
+Dualcaster Mage
+Mogg Assassin
 Goblin Electromancer
 Guttersnipe
 Niv-Mizzet, the Firemind

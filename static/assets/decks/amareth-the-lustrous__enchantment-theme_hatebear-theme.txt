@@ -1,0 +1,100 @@
+Plains
+Forest
+Island
+Plains
+Forest
+Island
+Plains
+Forest
+Island
+Plains
+Forest
+Glacial Fortress
+Eiganjo Castle
+Snow-Covered Forest
+Yavimaya Coast
+Selesnya Sanctuary
+Castle Ardenvale
+Scavenger Grounds
+Wasteland
+Secluded Steppe
+Misty Rainforest
+Temple of the False God
+Darksteel Citadel
+Yavimaya, Cradle of Growth
+Ancient Den
+Hall of Heliod's Generosity
+Reliquary Tower
+Tree of Tales
+Seat of the Synod
+Overgrown Farmland
+Deserted Beach
+Dreamroot Cascade
+Marble Diamond
+Thornglint Bridge
+Kataki, War's Wage
+Deafening Silence
+Confounding Conundrum
+Cleansing Meditation
+Approach of the Second Sun
+Kodama's Reach
+Cultivate
+Heliod's Intervention
+Chord of Calling
+Dovin's Veto
+Beast Within
+Path to Exile
+Counterspell
+Swords to Plowshares
+Calix, Destiny's Hand
+Darksteel Mutation
+Guardian Project
+Overgrowth
+Survival of the Fittest
+Leyline of Anticipation
+Aura of Silence
+Rhystic Study
+Sigil of the Empty Throne
+Felidar Retreat
+Smothering Tithe
+Teleportation Circle
+Hallowed Haunting
+Damping Sphere
+Endless Atlas
+Norn's Annex
+Sensei's Divining Top
+Conjurer's Closet
+Panharmonicon
+Arcane Signet
+Vryn Wingmare
+Moon-Blessed Cleric
+Reflector Mage
+Edric, Spymaster of Trest
+Wall of Omens
+Tocatli Honor Guard
+Kruphix, God of Horizons
+Archetype of Imagination
+Spirit of the Labyrinth
+Archon of Sun's Grace
+Ajani's Chosen
+Eidolon of Blossoms
+Celestial Ancient
+Glowrider
+Charming Prince
+Courser of Kruphix
+Brago, King Eternal
+Wood Elves
+Thassa, Deep-Dwelling
+Yorion, Sky Nomad
+Kodama of the East Tree
+Solemn Simulacrum
+Soulherder
+Sythis, Harvest's Hand
+Sun Titan
+Sanctum Weaver
+Coiling Oracle
+Farhaven Elf
+Reclamation Sage
+Eternal Witness
+Augur of Autumn
+Amareth, the Lustrous

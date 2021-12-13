@@ -1,23 +1,21 @@
-Swamp
-Island
-Plains
 Forest
 Mountain
 Swamp
 Island
 Plains
-Flooded Strand
-Rootbound Crag
-Jungle Shrine
-Arcane Sanctum
-Command Tower
-Bojuka Bog
+Canopy Vista
+Castle Locthwain
+Tundra
+Windswept Heath
+Rejuvenating Springs
+Dreamroot Cascade
+Snow-Covered Swamp
 Wooded Foothills
-Cabal Coffers
-Eiganjo Castle
-Hallowed Fountain
-Deathcap Glade
-Overgrown Farmland
+Frontier Bivouac
+Isolated Chapel
+Selesnya Guildgate
+Rogue's Passage
+Temple of the False God
 Okina, Temple to the Grandfathers
 Field of the Dead
 Gaea's Cradle
@@ -30,38 +28,39 @@ Yavimaya, Cradle of Growth
 Reliquary Tower
 Hall of Heliod's Generosity
 Cascading Cataracts
-Heliod, God of the Sun
-Fist of Suns
-Estrid's Invocation
-Return of the Wildspeaker
-Nylea, Keen-Eyed
-Muldrotha, the Gravetide
-Exotic Orchard
-Hazoret the Fervent
-Sylvan Scrying
-Yawgmoth's Vile Offering
-Haunting Voyage
+Genesis Ultimatum
+Overwhelming Stampede
+Eerie Ultimatum
+Doomskar
+Kruphix's Insight
+Rampant Growth
 Cultivate
 Farseek
 Primevals' Glorious Rebirth
 Urza's Ruinous Blast
-Enlightened Tutor
-Brainstorm
+Mystical Tutor
+Pledge of Unity
+Noxious Revival
+Fierce Guardianship
 Dovin's Veto
 Cyclonic Rift
 Swords to Plowshares
+Kasmina, Enigmatic Mentor
+Tamiyo, Collector of Tales
+Vraska the Unseen
+Sarkhan Unbroken
 Narset, Parter of Veils
-The Wanderer
-Ajani, Mentor of Heroes
 Teferi, Time Raveler
 Ashiok, Dream Render
 Teferi, Who Slows the Sunset
-Honden of Cleansing Fire
-Mystic Remora
-Fires of Yavimaya
-Honden of Night's Reach
+Luminarch Ascension
+Honden of Infinite Rage
+Wolfwillow Haven
+Greater Auramancy
 Propaganda
-Ancestral Mask
+Moldervine Reclamation
+Song of the Dryads
+Sanctum of Shattered Heights
 Sanctum of Tranquil Light
 Sanctum of Calm Waters
 Sanctum of All
@@ -69,24 +68,25 @@ Sanctum of Stone Fangs
 Sanctum of Fruitful Harvest
 Ghostly Prison
 Hallowed Haunting
-Skyclave Relic
-Talisman of Impulse
-Sword of the Chosen
-Shadowspear
+Spear of Heliod
+Crystal Chimes
+Chromatic Lantern
 Heroes' Podium
 Blackblade Reforged
 Arcane Signet
 Avacyn's Memorial
-Smokebraider
-Felidar Sovereign
-Dragonlord Silumgar
-Marauding Raptor
+Golos, Tireless Pilgrim
 Kestia, the Cultivator
-Noble Hierarch
-Avacyn, Angel of Hope
+Omnath, Locus of Creation
+Leonin Relic-Warder
+Necropanther
 Jorn, God of Winter // Kaldring, the Rimestaff
-Thassa, Deep-Dwelling
-Dragonlord Dromoka
+Thalia, Heretic Cathar
+Ramos, Dragon Engine
+Reki, the History of Kamigawa
+Bontu the Glorified
+Doomwake Giant
+Jhoira, Weatherlight Captain
 Sythis, Harvest's Hand
 Kethis, the Hidden Hand
 Shalai, Voice of Plenty

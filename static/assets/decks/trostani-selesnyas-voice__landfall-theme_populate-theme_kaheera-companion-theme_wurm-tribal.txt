@@ -12,79 +12,79 @@ Plains
 Forest
 Plains
 Forest
-Plains
-Forest
-Plains
-Forest
-Plains
-Forest
-Selesnya Guildgate
-Fortified Village
-Prismatic Vista
-Path of Ancestry
-Tranquil Expanse
+Snow-Covered Plains
 Temple Garden
+Guildless Commons
+Myriad Landscape
+Krosan Verge
+Riftstone Portal
+Bountiful Promenade
+Scattered Groves
+Stirring Wildwood
+Castle Ardenvale
 Vitu-Ghazi, the City-Tree
 Mosswort Bridge
 Reliquary Tower
 Gavony Township
 Grove of the Guardian
 Overgrown Farmland
-Storm Herd
+Call of the Conclave
+Wurmcalling
 Planar Outburst
+Turntimber Symbiosis // Turntimber, Serpentine Wood
+Camaraderie
 Shamanic Revelation
-Roar of the Wurm
 Rampant Growth
 Kodama's Reach
 Cultivate
 Hour of Reckoning
+Nature's Claim
+Inspiring Call
+Ephemerate
 Selesnya Charm
-Beacon of Immortality
-Hunter's Insight
-Return of the Wildspeaker
-Ram Through
-Crib Swap
-Second Harvest
 Advent of the Wurm
 Rootborn Defenses
 Sundering Growth
 Beast Within
 Rite of Harmony
-Ajani, Mentor of Heroes
+Garruk Wildspeaker
 Ajani, Strength of the Pride
 Garruk, Primal Hunter
-Elemental Bond
 Wurmweaver Coil
-Ajani's Welcome
-True Conviction
-Zendikar Resurgent
+Divine Visitation
+Angelic Accord
+Radiant Destiny
+Burgeoning
+Lurking Predators
 Intangible Virtue
 Mirari's Wake
 Parallel Lives
 Anointed Procession
 Trudge Garden
 Growing Ranks
-Mimic Vat
-Rhonas's Monument
-Ashnod's Altar
-Emerald Medallion
-Aetherflux Reservoir
+Alhammarret's Archive
+Coat of Arms
+Talisman of Unity
+Quietus Spike
 Well of Lost Dreams
 Arcane Signet
 Sol Ring
 Dollhouse of Horrors
-Arasta of the Endless Web
-Ramunap Excavator
-Adorned Pouncer
-Angel of Destiny
-Scute Swarm
-Keeper of Fables
+Kazandu Tuskcaller
+Autochthon Wurm
+Eternal Witness
+Emmara, Soul of the Accord
+Cubwarden
+Roc Egg
+Worldspine Wurm
+Elder Gargaroth
 Temur Sabertooth
-Hornet Queen
-Oran-Rief Hydra
-Regal Caracal
-Gravetiller Wurm
-Essence Warden
+Fertilid
+Acidic Slime
+Dryad of the Ilysian Grove
+Bellowing Tanglewurm
+Rhys the Redeemed
+Felidar Sovereign
 Vitu-Ghazi Guildmage
 Trelasarra, Moon Dancer
 Sakura-Tribe Elder

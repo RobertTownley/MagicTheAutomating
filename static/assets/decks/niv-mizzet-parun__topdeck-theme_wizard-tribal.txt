@@ -1,4 +1,3 @@
-Island
 Mountain
 Island
 Mountain
@@ -15,43 +14,49 @@ Mountain
 Island
 Mountain
 Island
-Access Tunnel
-Sulfur Falls
-Frostboil Snarl
-Myriad Landscape
+Mountain
+Island
+Mountain
+Island
+Urza's Saga
+Volatile Fjord
+Ancient Tomb
+Highland Lake
+Desert of the Mindful
 Ash Barrens
-Temple of the False God
 Castle Vantress
 Forgotten Cave
 Lonely Sandbar
 Mystic Sanctuary
 Reliquary Tower
 Stormcarved Coast
-Wheel of Fortune
-Shatterskull Smashing // Shatterskull, the Hammer Pass
+Desolate Lighthouse
+Molten Psyche
+Tormenting Voice
+Evolving Wilds
+Gorgon's Head
+Jaya's Immolating Inferno
+Ravenform
+Gamble
 Mizzix's Mastery
 Divination
-By Force
+Serum Visions
 Treasure Cruise
 Windfall
 Faithless Looting
 Preordain
 Ponder
 Vandalblast
+Aetherize
 Counterflux
-Behold the Multiverse
-Dispel
-Ghostly Flicker
-Delay
-Wash Away
-Comet Storm
-Rewind
-Fading Hope
-Pyroblast
-Silundi Vision // Silundi Isle
-Electrodominance
-Chaos Warp
-Expansion // Explosion
+Magma Jet
+Deflecting Swat
+Mission Briefing
+Impulse
+Radical Idea
+Force of Will
+Dissolve
+Mana Drain
 Arcane Denial
 Cyclonic Rift
 Izzet Charm
@@ -62,34 +67,29 @@ Mystical Tutor
 Frantic Search
 Counterspell
 Consider
-Saheeli Rai
-Dack Fayden
-Ral, Storm Conduit
-Narset, Parter of Veils
-Molten Echoes
-Aqueous Form
-Arcane Adaptation
-Future Sight
+Sunbird's Invocation
+Ominous Seas
+The Mirari Conjecture
 Rhystic Study
 Teferi's Ageless Insight
 Ophidian Eye
 Curiosity
-Izzet Locket
-Coldsteel Heart
-Spellbook
-Gorgon's Head
+Folio of Fancies
+Brainstone
+Cursed Totem
+Mox Diamond
+Thought Vessel
 Lightning Greaves
 Isochron Scepter
 Primal Amulet // Primal Wellspring
 Commander's Sphere
 Talisman of Creativity
-Dockside Extortionist
-Etali, Primal Storm
-Spellseeker
-Hypersonic Dragon
-Trophy Mage
-Enigma Drake
-Melek, Izzet Paragon
+The Locust God
+Young Pyromancer
+Kaza, Roil Chaser
+Torbran, Thane of Red Fell
+Prognostic Sphinx
+Niv-Mizzet, Parun
 Goblin Electromancer
 Guttersnipe
 Niv-Mizzet, the Firemind

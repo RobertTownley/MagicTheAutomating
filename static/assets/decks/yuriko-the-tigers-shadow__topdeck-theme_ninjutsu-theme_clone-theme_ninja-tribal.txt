@@ -1,4 +1,3 @@
-Swamp
 Island
 Swamp
 Island
@@ -8,19 +7,16 @@ Swamp
 Island
 Swamp
 Island
-Swamp
-Island
-Swamp
-Island
-Swamp
-Island
-Sunken Hollow
-Submerged Boneyard
-Terramorphic Expanse
-Urborg, Tomb of Yawgmoth
-Clearwater Pathway // Murkwater Pathway
-Faerie Conclave
-Jwar Isle Refuge
+Morphic Pool
+Sunken Ruins
+Dimir Guildgate
+Temple of the False God
+Command Beacon
+Isolated Watchtower
+Bloodstained Mire
+Castle Locthwain
+Creeping Tar Pit
+Castle Vantress
 Shizo, Death's Storehouse
 Access Tunnel
 Reliquary Tower
@@ -28,26 +24,23 @@ Halimar Depths
 Mystic Sanctuary
 Rogue's Passage
 Shipwreck Marsh
-Consign // Oblivion
-Plague Wind
-In Garruk's Wake
-Coastal Breach
-Mystic Speculation
+Quasiduplicate
+Aether Gale
+Diabolic Tutor
+Portent
+Agadeem's Awakening // Agadeem, the Undercrypt
+Sea Gate Restoration // Sea Gate, Reborn
 Temporal Mastery
 Commit // Memory
 Ponder
 Treasure Cruise
 Temporal Trespass
-Insidious Dreams
-Fierce Guardianship
-Sublime Epiphany
-Rapid Hybridization
-Dissolve
-Discovery // Dispersal
-Nexus of Fate
-Behold the Multiverse
-Dig Through Time
-Brainstorm
+Go for the Throat
+Deadly Rollick
+Deliberate
+Vampiric Tutor
+Familiar's Ruse
+Disallow
 Dismember
 Mystical Tutor
 Counterspell
@@ -55,33 +48,40 @@ Infernal Grasp
 Alchemist's Retrieval
 Wash Away
 Otherworldly Gaze
-Teferi's Ageless Insight
-Animate Dead
+Narset, Parter of Veils
+Ashiok, Dream Render
+Cover of Darkness
+Metamorphic Alteration
+Wound Reflection
+Cunning Evasion
 Smoke Shroud
 Arcane Adaptation
-Vorpal Sword
-Charcoal Diamond
+Midnight Clock
+Witching Well
+Twinning Staff
 Dimir Locket
-Fellwar Stone
+Skyclave Relic
 Lightning Greaves
 Maskwood Nexus
 Scroll Rack
 Sensei's Divining Top
 Grafdigger's Cage
-Clone
-Doom Whisperer
-Stunt Double
-Gigantoplasm
+Azra Smokeshaper
+Memnite
+Thassa, Deep-Dwelling
+Ink-Eyes, Servant of Oni
+Nightmare Shepherd
+Ghostly Pilferer
+Hypnotic Siren
+Sepulchral Primordial
 Body of Knowledge
-Spire Owl
-Gyruda, Doom of Depths
-Sakashima's Protege
+Deadeye Navigator
+Keeper of Keys
+Moonblade Shinobi
 Mirror Image
-Mercurial Pretender
-Gudul Lurker
+Etrata, the Silencer
 Hullbreacher
-Vela the Night-Clad
-Clever Impersonator
+Walker of Secret Ways
 Throat Slitter
 Triton Shorestalker
 Silent-Blade Oni

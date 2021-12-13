@@ -1,5 +1,3 @@
-Forest
-Mountain
 Island
 Plains
 Forest
@@ -8,20 +6,22 @@ Island
 Plains
 Forest
 Mountain
-Frontier Bivouac
-Kessig Wolf Run
-Steam Vents
-Mystic Monastery
-Sea of Clouds
-Simic Growth Chamber
-Hinterland Harbor
+Island
+Plains
+Forest
+Mountain
+Alchemist's Refuge
+Misty Rainforest
+Jungle Shrine
 Terramorphic Expanse
+Hallowed Fountain
+Temple Garden
+Exotic Orchard
+Sulfur Falls
 Command Tower
-Boros Garrison
-Dreamroot Cascade
+Deserted Beach
 Geier Reach Sanitarium
 Hall of Heliod's Generosity
-Homeward Path
 Field of the Dead
 Maze of Ith
 Temple of the False God
@@ -30,25 +30,17 @@ Mikokoro, Center of the Sea
 Reliquary Tower
 Rockfall Vale
 Overgrown Farmland
-Scalding Tarn
-Crop Rotation
-Temple Bell
-Mirage Mirror
-Izzet Signet
-Arid Mesa
-Pramikon, Sky Rampart
-Ash Barrens
-Wave of Reckoning
-Illusionist's Gambit
-Wild Evocation
-Zhur-Taa Ancient
+Fabled Passage
+Homeward Path
+Birds of Paradise
 Valakut Awakening // Valakut Stoneforge
-Disrupt Decorum
-Skyshroud Claim
-Insurrection
-Explore
-New Frontiers
-Wrath of God
+Collective Restraint
+Boros Garrison
+Sea Gate Restoration // Sea Gate, Reborn
+Winds of Abandon
+Supreme Verdict
+Council's Judgment
+Approach of the Second Sun
 Farseek
 Kodama's Reach
 Cultivate
@@ -56,37 +48,45 @@ Collective Voyage
 Tempt with Discovery
 Blasphemous Act
 Dream Fracture
+Sphinx's Revelation
+Chaos Warp
+Mystical Tutor
 Krosan Grip
-Swan Song
-Enlightened Tutor
+Cyclonic Rift
 Generous Gift
 Arcane Denial
 Swords to Plowshares
 Beast Within
-Privileged Position
-Well of Ideas
-Wizard Class
-Curse of Verbosity
+Jace Beleren
+Zendikar Resurgent
+Burgeoning
+Khalni Heart Expedition
+Wild Evocation
 Smothering Tithe
 Dictate of Kruphix
 Propaganda
 Rites of Flourishing
 Ghostly Prison
-Boros Signet
-Crawlspace
-Sol Ring
+Elixir of Immortality
+Victory Chimes
+Bucknard's Everfull Purse
+Thaumatic Compass // Spires of Orazca
+Fellwar Stone
+Folio of Fancies
+Temple Bell
 Howling Mine
 Arcane Signet
 Wedding Ring
-Gisela, Blade of Goldnight
-Kruphix, God of Horizons
-Selfless Squire
-Heartwood Storyteller
-Orzhov Advokist
-Omnath, Locus of Creation
-Dryad of the Ilysian Grove
+Zhur-Taa Ancient
 Gahiji, Honored One
-Noble Benefactor
+Braids, Conjurer Adept
+Omnath, Locus of Rage
+Ludevic, Necro-Alchemist
+Laboratory Maniac
+Courser of Kruphix
+Sun Titan
+Pramikon, Sky Rampart
+Gor Muldrak, Amphinologist
 Tatyova, Benthic Druid
 Edric, Spymaster of Trest
 Veteran Explorer

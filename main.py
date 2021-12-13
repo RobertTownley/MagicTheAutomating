@@ -3,49 +3,28 @@ import typing as T
 from assets import download_assets
 from cards import find_random_commander_for_colors
 from colors import choose_random_colors
-from decks import build_deck
-from theme import find_theme_weightings_for_commander
+from decks import build_deck, save_deck
+from tribes import find_tribe_for_commander, get_all_tribes
+from theme import find_themes_for_commander, get_all_themes
 
 
+DECKS_TO_BUILD = 1
 SELECTION_METHODOLOGY = 1
 
 
 def run():
     download_assets()
+    all_themes = get_all_themes()
+    all_tribes = get_all_tribes()
 
-    if SELECTION_METHODOLOGY == 1:
-        # Choose colors, select a commander for those colors, find a theme, populate
+    # Choose colors, select a commander for those colors, find a theme, populate
+    for i in range(0, DECKS_TO_BUILD):
         color_code = choose_random_colors()
         commander = find_random_commander_for_colors(color_code)
-        print(commander)
-        # theme_weightings = find_theme_weightings_for_commander(commander)
-        # build_deck(
-        #    colors=colors, commander=commander, theme_weightings=theme_weightings
-        # )
-    else:
-        raise Exception(f"Unknown selection methodology: {SELECTION_METHODOLOGY}")
-    # themes, strategies = select_random_themes_and_tribes()
-    # deck = build_deck(themes, strategies)
-    # add_mana_base(deck)
+        themes = find_themes_for_commander(commander, all_themes)
+        tribe = find_tribe_for_commander(commander, all_tribes)
+        deck = build_deck(commander, themes, tribe)
+        save_deck(deck)
 
 
-"""
-def select_random_themes_and_tribes() -> T.Tuple[T.List[Theme], T.List[Tribe]]:
-    print("Selecting random themes and straegies...")
-    themes = []
-    tribes = []
-    return (themes, tribes)
-
-def build_deck(themes: T.List[Theme], strategies: T.List[Tribe]) -> Deck:
-    return Deck()
-
-def add_mana_base(deck: Deck) -> Deck:
-    return deck
-
-
-def choose_colors() -> T.List[Color]:
-    return []
-"""
-
-if __name__ == "__main__":
-    run()
+run()

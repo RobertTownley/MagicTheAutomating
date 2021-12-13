@@ -54,3 +54,21 @@ def choose_random_colors():
     TODO: Deduping random.choices biases towards fewer colors
     """
     return random.choice(COLOR_CODES)
+
+
+def normalize_colors(theme_colors):
+    if type(theme_colors) == str:
+        # "ur"
+        parts = list(theme_colors)
+    elif type(theme_colors) == list:
+        if len(theme_colors) == 1:
+            # ['ruw']
+            parts = list(theme_colors[0])
+        else:
+            parts = theme_colors
+    elif type(theme_colors) == dict:
+        parts = list(theme_colors["icons"])
+    else:
+        raise Exception(f"Unknown type {type(theme_colors)}")
+    parts = [c.lower() for c in parts]
+    return "".join(sorted(parts))

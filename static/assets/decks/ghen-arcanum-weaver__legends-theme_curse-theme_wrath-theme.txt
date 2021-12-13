@@ -1,0 +1,100 @@
+Plains
+Mountain
+Swamp
+Plains
+Mountain
+Swamp
+Plains
+Mountain
+Swamp
+Plains
+Mountain
+Swamp
+Plains
+Mountain
+Command Tower
+Blightstep Pathway // Searstep Pathway
+Goldmire Bridge
+Fetid Heath
+Haunted Ridge
+Polluted Delta
+Windswept Heath
+Luxury Suite
+Caves of Koilos
+Axgard Armory
+Urza's Saga
+Reliquary Tower
+Serra's Sanctum
+Urborg, Tomb of Yawgmoth
+Geier Reach Sanitarium
+Bojuka Bog
+Hall of Heliod's Generosity
+Sundown Pass
+Magewright's Stone
+Transcendent Envoy
+Devastation
+Devastating Mastery
+Replenish
+Cathartic Reunion
+Resurgent Belief
+Faithless Looting
+Blasphemous Act
+Boros Charm
+Deflecting Palm
+Infernal Grasp
+Entomb
+Swords to Plowshares
+Thrill of Possibility
+Curse of Misfortunes
+Curse of the Forsaken
+Curse of Death's Hold
+Planar Collapse
+Curse of Vengeance
+Authority of the Consuls
+Marchesa's Decree
+Rest in Peace
+Leyline of the Void
+Land Tax
+Dragon Tempest
+Curse of Exhaustion
+Underworld Breach
+Grave Betrayal
+The Eldest Reborn
+Demonic Lore
+Captive Audience
+Overwhelming Splendor
+Sigil of the Empty Throne
+Sphere of Safety
+Treacherous Blessing
+Liliana's Contract
+Phyrexian Arena
+Ghostly Prison
+Hallowed Haunting
+Curse of Obsession
+Curse of Hospitality
+Curse of Shaken Faith
+Caged Sun
+Rings of Brighthearth
+Firemind Vessel
+Whispersilk Cloak
+Lightning Greaves
+Talisman of Conviction
+Talisman of Hierarchy
+Arcane Signet
+Silent Arbiter
+Ghen, Arcanum Weaver
+Opposition Agent
+Blightsteel Colossus
+Mathas, Fiend Seeker
+Heliod, God of the Sun
+Zurgo Helmsmasher
+Sram, Senior Edificer
+Moon-Blessed Cleric
+Sun Titan
+Alseid of Life's Bounty
+Doomwake Giant
+Archon of Sun's Grace
+Starfield Mystic
+Gravebreaker Lamia
+Mesa Enchantress
+Ghen, Arcanum Weaver

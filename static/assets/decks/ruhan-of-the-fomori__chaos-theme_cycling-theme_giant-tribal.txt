@@ -1,0 +1,100 @@
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Desert of the Fervent
+Path of Ancestry
+Raugrin Triome
+Sulfur Falls
+Glacial Fortress
+Ghost Quarter
+Drifting Meadow
+Mystic Monastery
+Temple of the False God
+Slayers' Stronghold
+Hall of Storm Giants
+Sunhome, Fortress of the Legion
+Rogue's Passage
+Deserted Beach
+Stormcarved Coast
+Sundown Pass
+Psychosis Crawler
+Reliquary Tower
+Sea of Clouds
+Fire Giant's Fury
+Tavern Scoundrel
+Nahiri, the Lithomancer
+Wizard Class
+Earthquake
+Fabricate
+Chandra's Ignition
+Glimpse the Cosmos
+Blasphemous Act
+Vanquish the Horde
+Countervailing Winds
+Brainstorm
+Choking Tethers
+Temur Battle Rage
+Squash
+Chaos Warp
+Swords to Plowshares
+Boros Charm
+Path to Exile
+Forging the Tyrite Sword
+Anointed Procession
+Detention Sphere
+Puca's Mischief
+Fighter Class
+Sigarda's Aid
+Battle of Frost and Fire
+Invasion of the Giants
+Thran Dynamo
+Treasure Chest
+Batterskull
+Grafted Exoskeleton
+Robe of Stars
+Chromatic Lantern
+Sword of Body and Mind
+Howling Mine
+Sword of Vengeance
+Talisman of Creativity
+Shadowspear
+Sword of the Animist
+Lightning Greaves
+Assault Suit
+Loxodon Warhammer
+Sunforger
+Swiftfoot Boots
+Protector of the Crown
+Brass Squire
+Goblin Kaboomist
+Two-Headed Giant
+Mogg Assassin
+Felidar Sovereign
+Tribute Mage
+Zndrsplt, Eye of Wisdom
+Dockside Extortionist
+Warchief Giant
+Puresteel Paladin
+Surtland Flinger
+Sram, Senior Edificer
+Sun Titan
+Stonehewer Giant
+Cyclone Summoner
+Realm-Cloaked Giant
+Quakebringer
+Aegar, the Freezing Flame
+Calamity Bearer
+Ruhan of the Fomori

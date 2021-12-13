@@ -1,0 +1,100 @@
+Island
+Forest
+Swamp
+Island
+Forest
+Swamp
+Island
+Forest
+Swamp
+Drowned Catacomb
+Tropical Island
+Waterlogged Grove
+Desert of the Glorified
+Aether Hub
+Simic Growth Chamber
+Gemstone Caverns
+Inventors' Fair
+Mana Confluence
+Field of the Dead
+Svogthos, the Restless Tomb
+Alchemist's Refuge
+Lonely Sandbar
+Mystic Sanctuary
+Strip Mine
+Tranquil Thicket
+Barren Moor
+Cephalid Coliseum
+Reliquary Tower
+Ancient Tomb
+Yavimaya, Cradle of Growth
+Bojuka Bog
+Urborg, Tomb of Yawgmoth
+Opposition Agent
+Nightmare Void
+Splendid Reclamation
+Circuitous Route
+Final Parting
+Diregraf Rebirth
+Life // Death
+Casualties of War
+Neoform
+Ponder
+Demonic Tutor
+Culling Ritual
+Eldritch Evolution
+Regrowth
+Windfall
+Toxic Deluge
+Grapple with the Past
+Pact of Negation
+Veil of Summer
+Force of Vigor
+Flusterstorm
+Resculpt
+Paradoxical Outcome
+Force of Will
+Shared Summons
+Abrupt Decay
+Swan Song
+Dramatic Reversal
+Brainstorm
+Beast Within
+Mystical Tutor
+Counterspell
+Infernal Grasp
+Consider
+Tamiyo, Collector of Tales
+Vraska, Golgari Queen
+Ashiok, Dream Render
+Narset, Parter of Veils
+Wild Growth
+Rhystic Study
+Mystic Remora
+Skullclamp
+Mana Crypt
+Aetherworks Marvel
+Conjurer's Closet
+Wishclaw Talisman
+Sensei's Divining Top
+Fellwar Stone
+Isochron Scepter
+Arcane Signet
+Fyndhorn Elves
+Flux Channeler
+Ramunap Excavator
+Multiform Wonder
+Quandrix Cultivator
+Aethertide Whale
+Eternal Witness
+Hullbreacher
+Birds of Paradise
+Nezahal, Primal Tide
+Thassa's Oracle
+Deathrite Shaman
+Notion Thief
+Seedborn Muse
+Toxrill, the Corrosive
+Malevolent Hermit // Benevolent Geist
+Hullbreaker Horror
+Tasigur, the Golden Fang

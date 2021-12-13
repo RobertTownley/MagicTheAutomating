@@ -1,0 +1,100 @@
+Plains
+Forest
+Swamp
+Island
+Plains
+Forest
+Opulent Palace
+Polluted Delta
+Temple of Deceit
+Temple of Mystery
+Hall of Heliod's Generosity
+Drifting Meadow
+Nesting Grounds
+Terramorphic Expanse
+Hallowed Fountain
+Overgrown Farmland
+Command Beacon
+Watery Grave
+Bojuka Bog
+Urborg, Tomb of Yawgmoth
+Temple of the False God
+Dreadship Reef
+Interplanar Beacon
+Gavony Township
+Yavimaya, Cradle of Growth
+Reliquary Tower
+Karn's Bastion
+Deserted Beach
+Deathcap Glade
+Dreamroot Cascade
+Fumigate
+Spread the Sickness
+Supreme Verdict
+Ponder
+Call the Gatewatch
+Demonic Tutor
+Merciless Eviction
+Farseek
+Cultivate
+Tezzeret's Gambit
+Tainted Strike
+Disappearing Act
+Harrow
+Vampiric Tutor
+Sejiri Shelter // Sejiri Glacier
+Teferi's Protection
+Anguished Unmaking
+Counterspell
+Cyclonic Rift
+Swords to Plowshares
+Elspeth, Sun's Champion
+Ob Nixilis Reignited
+Oko, Thief of Crowns
+Garruk, Cursed Huntsman
+Nissa, Vital Force
+Teferi, Hero of Dominaria
+Ugin, the Spirit Dragon
+Narset, Parter of Veils
+Teferi, Master of Time
+Tamiyo, Field Researcher
+Teferi, Who Slows the Sunset
+Land Tax
+Blind Obedience
+Phyrexian Scriptures
+Privileged Position
+Oath of Teferi
+Rhystic Study
+Doubling Season
+Inexorable Tide
+Replicating Ring
+Expedition Map
+Sword of the Animist
+Marble Diamond
+Contagion Engine
+Everflowing Chalice
+Astral Cornucopia
+Arcane Signet
+Managorger Hydra
+Angelic Field Marshal
+Skithiryx, the Blight Dragon
+Soulherder
+Akroma, Angel of Wrath
+Aether Swooper
+Sage of Shaila's Claim
+Plague Myr
+Herald of Secret Streams
+Herald of War
+Phyrexian Crusader
+Fathom Mage
+Crystalline Crawler
+Spark Double
+Carth the Lion
+Shalai, Voice of Plenty
+Flux Channeler
+Thrummingbird
+Vorinclex, Monstrous Raider
+Deepglow Skate
+Evolution Sage
+Toxrill, the Corrosive
+Atraxa, Praetors' Voice

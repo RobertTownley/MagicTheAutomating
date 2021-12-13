@@ -1,0 +1,100 @@
+Forest
+Mountain
+Swamp
+Forest
+Mountain
+Swamp
+Forest
+Mountain
+Swamp
+Cabal Stronghold
+Twilight Mire
+Kher Keep
+Myriad Landscape
+Badlands
+Strip Mine
+Bayou
+Den of the Bugbear
+Scavenger Grounds
+Wasteland
+Castle Locthwain
+Ancient Tomb
+Lotus Field
+Field of the Dead
+Yavimaya, Cradle of Growth
+Urborg, Tomb of Yawgmoth
+Bojuka Bog
+Treasure Vault
+Reliquary Tower
+Phyrexian Tower
+Haunted Ridge
+Rockfall Vale
+Deathcap Glade
+Exsanguinate
+Praetor's Grasp
+Hordeling Outburst
+Tendrils of Agony
+Reforge the Soul
+Tormenting Voice
+Farseek
+Brass's Bounty
+Victimize
+Demonic Tutor
+Cultivate
+Dig Up
+Heroic Intervention
+Red Elemental Blast
+Bedevil
+Massive Raid
+Beast Within
+Deadly Dispute
+Assassin's Trophy
+Crop Rotation
+Harrow
+Liliana, Dreadhorde General
+Nantuko Shrine
+Font of Fertility
+Fires of Yavimaya
+Goblin Bombardment
+Rhythm of the Wild
+Awakening Zone
+Mana Vault
+Commander's Sphere
+Heraldic Banner
+Ashnod's Altar
+Swiftfoot Boots
+Arcane Signet
+Sol Ring
+Deathrite Shaman
+Goblin Wardriver
+Goblin Chainwhirler
+Reassembling Skeleton
+Chatterfang, Squirrel General
+Beetleback Chief
+Sling-Gang Lieutenant
+Lord of the Void
+Demon of Dark Schemes
+Fyndhorn Elves
+Tireless Tracker
+Foundry Street Denizen
+Scute Swarm
+Ravenous Chupacabra
+Treasure Nabber
+Goblin Piledriver
+Old Gnawbone
+Birds of Paradise
+Ramunap Excavator
+Plaguecrafter
+Springbloom Druid
+Zulaport Cutthroat
+Eternal Witness
+Tireless Provisioner
+Ignoble Hierarch
+Sakura-Tribe Elder
+Dockside Extortionist
+Viscera Seer
+Pitiless Plunderer
+Mayhem Devil
+Blood Artist
+Outland Liberator // Frenzied Trapbreaker
+Korvold, Fae-Cursed King

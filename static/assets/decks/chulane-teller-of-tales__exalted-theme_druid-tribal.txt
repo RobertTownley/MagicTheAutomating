@@ -1,0 +1,100 @@
+Island
+Plains
+Forest
+Island
+Plains
+Forest
+Island
+Plains
+Forest
+Island
+Plains
+Forest
+Tranquil Thicket
+Canopy Vista
+Cavern of Souls
+Mosswort Bridge
+Snow-Covered Island
+Selesnya Guildgate
+Bountiful Promenade
+Castle Garenbrig
+Gavony Township
+Waterlogged Grove
+Ancient Tomb
+Gaea's Cradle
+Temple of the False God
+Field of the Dead
+Alchemist's Refuge
+Yavimaya, Cradle of Growth
+Reliquary Tower
+Overgrown Farmland
+Deserted Beach
+Dreamroot Cascade
+Seedborn Muse
+Kor Skyfisher
+Strip Mine
+Mystical Tutor
+Worldly Tutor
+Selesnya Sanctuary
+River's Rebuke
+Neoform
+Austere Command
+Kodama's Reach
+Time Wipe
+Finale of Devastation
+Cultivate
+Summoner's Pact
+Incubation // Incongruity
+Wrap in Vigor
+Enlightened Tutor
+Cyclonic Rift
+Dovin's Veto
+Eladamri's Call
+Swords to Plowshares
+Counterspell
+Utopia Sprawl
+Aura Shards
+Aluren
+Guardian Project
+Intruder Alarm
+Oketra's Monument
+Holy Avenger
+Lightning Greaves
+Cloudstone Curio
+Arcane Signet
+Bastion Protector
+Druid of the Cowl
+Knight of Glory
+Lavinia, Azorius Renegade
+Peregrine Drake
+Soul of the Harvest
+Guardian of Faith
+Galea, Kindler of Hope
+Waveskimmer Aven
+Elvish Harbinger
+Fyndhorn Elder
+Primordial Sage
+Sanctum Weaver
+Faeburrow Elder
+Battlegrace Angel
+Argothian Elder
+Gyre Engineer
+Birds of Paradise
+Paradise Druid
+Frilled Mystic
+Eternal Witness
+Reclamation Sage
+Fyndhorn Elves
+Tatyova, Benthic Druid
+Avacyn's Pilgrim
+Lotus Cobra
+Elvish Mystic
+Beast Whisperer
+Shrieking Drake
+Whitemane Lion
+Llanowar Elves
+Temur Sabertooth
+Craterhoof Behemoth
+Cathar Commando
+Augur of Autumn
+Chulane, Teller of Tales

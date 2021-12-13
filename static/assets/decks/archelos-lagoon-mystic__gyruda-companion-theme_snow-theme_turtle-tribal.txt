@@ -1,0 +1,100 @@
+Island
+Forest
+Swamp
+Island
+Forest
+Swamp
+Volrath's Stronghold
+Wasteland
+Blooming Marsh
+Llanowar Wastes
+Hinterland Harbor
+Bayou
+Morphic Pool
+Dismal Backwater
+Snow-Covered Forest
+Phyrexian Tower
+Coral Atoll
+Shipwreck Marsh
+Jungle Basin
+Strip Mine
+Witch's Cottage
+Urborg, Tomb of Yawgmoth
+Reliquary Tower
+Yavimaya, Cradle of Growth
+Lotus Field
+Field of the Dead
+Guildless Commons
+Mystic Sanctuary
+Bojuka Bog
+Dreamroot Cascade
+Deathcap Glade
+Blood for Bones
+Explore
+Culling Ritual
+Three Visits
+Boundless Realms
+Demonic Tutor
+Villainous Wealth
+Kodama's Reach
+Rampant Growth
+Farseek
+Cultivate
+Pact of Negation
+Double Major
+Mana Drain
+Tower Defense
+Kindred Summons
+Harrow
+Assassin's Trophy
+Cyclonic Rift
+Growth Spiral
+Crop Rotation
+Frantic Search
+Counterspell
+Beast Within
+Vraska, Relic Seeker
+Nissa of Shadowed Boughs
+Wrenn and Seven
+Sylvan Library
+Survival of the Fittest
+Leyline of Anticipation
+Rhystic Study
+Cryptolith Rite
+Retreat to Hagra
+Retreat to Coralhelm
+Worn Powerstone
+Whispersilk Cloak
+Swiftfoot Boots
+The Cauldron of Eternity
+Smuggler's Copter
+Crucible of Worlds
+Amulet of Vigor
+Springleaf Drum
+Gamekeeper
+Llanowar Scout
+Steelbane Hydra
+Elves of Deep Shadow
+Fatestitcher
+Champion of the Perished
+Jaspera Sentinel
+Chameleon Colossus
+Mistford River Turtle
+Dauthi Voidwalker
+Reclamation Sage
+Altered Ego
+Grave Titan
+Ramunap Excavator
+Meloku the Clouded Mirror
+Tireless Provisioner
+Aesi, Tyrant of Gyre Strait
+Scaled Herbalist
+Scute Swarm
+Azusa, Lost but Seeking
+Tatyova, Benthic Druid
+Sakura-Tribe Scout
+Lotus Cobra
+Augur of Autumn
+Saryth, the Viper's Fang
+Cultivator Colossus
+Archelos, Lagoon Mystic

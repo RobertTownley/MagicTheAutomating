@@ -1,0 +1,100 @@
+Mountain
+Swamp
+Plains
+Mountain
+Swamp
+Plains
+Mountain
+Swamp
+Plains
+Mountain
+Command Tower
+Shinka, the Bloodsoaked Keep
+Geier Reach Sanitarium
+Bloodstained Mire
+Graven Cairns
+Rakdos Carnarium
+Darksteel Citadel
+Wooded Foothills
+Temple of Triumph
+Isolated Chapel
+Drossforge Bridge
+Urborg, Tomb of Yawgmoth
+Shizo, Death's Storehouse
+Slayers' Stronghold
+Bojuka Bog
+Temple of the False God
+Axgard Armory
+Sunhome, Fortress of the Legion
+Rogue's Passage
+Haunted Ridge
+Sundown Pass
+Shattered Sanctum
+Kor Blademaster
+Relentless Assault
+Enlightened Tutor
+True Conviction
+Thalia, Heretic Cathar
+Devastating Mastery
+Cleansing Nova
+Tormenting Voice
+Divine Reckoning
+Planar Outburst
+Fumigate
+Chandra's Ignition
+Open the Armory
+Blasphemous Act
+Vanquish the Horde
+Ride Down
+Murder
+Akroma's Will
+Thrilling Encore
+Crackling Doom
+Utter End
+Swords to Plowshares
+Boros Charm
+Temur Battle Rage
+Intangible Virtue
+Phyresis
+Fiery Emancipation
+Revel in Riches
+Phyrexian Arena
+Smothering Tithe
+Fighter Class
+Sigarda's Aid
+Sword of War and Peace
+Assault Suit
+Bolas's Citadel
+Obsidian Battle-Axe
+Whispersilk Cloak
+Sword of Feast and Famine
+Mardu Banner
+Eldrazi Monument
+Hot Soup
+Inquisitor's Flail
+Talisman of Hierarchy
+Fireshrieker
+Blackblade Reforged
+Talisman of Conviction
+Shadowspear
+Loxodon Warhammer
+Worldslayer
+Swiftfoot Boots
+Mask of Griselbrand
+Sun Titan
+Metallic Mimic
+Mindblade Render
+Thrasher Brute
+Brighthearth Banneret
+Keeper of the Accord
+Elesh Norn, Grand Cenobite
+Piru, the Volatile
+Stoneforge Mystic
+Danitha Capashen, Paragon
+Puresteel Paladin
+Bruenor Battlehammer
+Sram, Senior Edificer
+Akiri, Fearless Voyager
+Stonehewer Giant
+Ardenn, Intrepid Archaeologist
+Zurgo Helmsmasher

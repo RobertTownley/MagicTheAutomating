@@ -1,0 +1,100 @@
+Forest
+Mountain
+Swamp
+Forest
+Mountain
+Swamp
+Forest
+Mountain
+Swamp
+Forest
+Mountain
+Swamp
+Forest
+Mountain
+Swamp
+Bloodfell Caves
+Karn's Bastion
+Mosswort Bridge
+Rootbound Crag
+Barren Moor
+Snow-Covered Swamp
+Jund Panorama
+Reliquary Tower
+Grim Backwoods
+Urborg, Tomb of Yawgmoth
+High Market
+Bojuka Bog
+Phyrexian Tower
+Rockfall Vale
+Deathcap Glade
+Haunted Ridge
+Skyshroud Claim
+Damnation
+Casualties of War
+Black Sun's Zenith
+Farseek
+Rampant Growth
+Victimize
+Cultivate
+Blasphemous Act
+Crop Rotation
+Tragic Slip
+Beast Within
+Village Rites
+Vivien, Champion of the Wilds
+Vraska, Golgari Queen
+Liliana, Dreadhorde General
+Black Market
+Branching Evolution
+Glorious Sunrise
+Exquisite Blood
+Impact Tremors
+Dictate of Erebos
+Goblin Bombardment
+Moldervine Reclamation
+Chromatic Orrery
+Rakdos Signet
+Door of Destinies
+Birthing Pod
+Phyrexian Altar
+Ashnod's Altar
+Skullclamp
+Ochre Jelly
+Lifeblood Hydra
+Wood Elves
+Obosh, the Preypiercer
+Farhaven Elf
+Masked Admirers
+Priest of Forgotten Gods
+Gigantomancer
+Primordial Hydra
+Capricopian
+Elves of Deep Shadow
+Halana and Alena, Partners
+Whisper, Blood Liturgist
+Rage Forger
+Elvish Visionary
+Fleshbag Marauder
+Yurlok of Scorch Thrash
+Golgari Findbroker
+Eternal Witness
+Zulaport Cutthroat
+Ignoble Hierarch
+Sakura-Tribe Elder
+Anax, Hardened in the Forge
+Timeless Witness
+Carrion Feeder
+Viscera Seer
+Midnight Reaper
+Reclamation Sage
+Plaguecrafter
+Judith, the Scourge Diva
+Pawn of Ulamog
+Reassembling Skeleton
+Grim Haruspex
+Harmonic Prodigy
+Blood Artist
+Morbid Opportunist
+Persistent Specimen
+Sek'Kuar, Deathkeeper

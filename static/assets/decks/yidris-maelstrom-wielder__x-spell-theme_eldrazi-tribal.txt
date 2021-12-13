@@ -1,0 +1,100 @@
+Island
+Forest
+Mountain
+Swamp
+Island
+Forest
+Mountain
+Swamp
+Island
+Scalding Tarn
+Cavern of Souls
+Endless Sands
+Training Center
+City of Brass
+Drowned Catacomb
+Tropical Island
+Raging Ravine
+Emergence Zone
+Eldrazi Temple
+Breeding Pool
+Field of the Dead
+Ancient Tomb
+Temple of the False God
+Bojuka Bog
+Yavimaya, Cradle of Growth
+Urborg, Tomb of Yawgmoth
+Rogue's Passage
+Reliquary Tower
+Shipwreck Marsh
+Stormcarved Coast
+Dreamroot Cascade
+Deathcap Glade
+Mana Flare
+Thaumatic Compass // Spires of Orazca
+Brood Butcher
+Wooded Foothills
+Comet Storm
+Leyline of Anticipation
+Rowan, Scholar of Sparks // Will, Scholar of Frost
+Planar Bridge
+Steam Vents
+Diabolic Tutor
+Baral's Expertise
+Introduction to Annihilation
+By Force
+Read the Bones
+Ancient Stirrings
+Gitaxian Probe
+Slip Through Space
+Demonic Tutor
+Treasure Cruise
+Inevitable Betrayal
+Wheel of Fate
+Windfall
+Cultivate
+Farseek
+Profane Tutor
+Klauth's Will
+Pull from Tomorrow
+Chain of Vapor
+Erebos's Intervention
+Pyroblast
+Mystical Tutor
+Chaos Warp
+Brainstorm
+Frantic Search
+Consider
+Eldrazi Conscription
+Dictate of the Twin Gods
+Rhystic Study
+Underworld Breach
+Sunbird's Invocation
+Blinkmoth Urn
+Eye of Vecna
+Arcane Signet
+Replicating Ring
+Aetherflux Reservoir
+Whispersilk Cloak
+Lightning Greaves
+Fellwar Stone
+Swiftfoot Boots
+Eldrazi Mimic
+Hydroid Krasis
+Rashmi, Eternities Crafter
+Barrage Tyrant
+Melek, Izzet Paragon
+Obosh, the Preypiercer
+Voracious Hydra
+Void Grafter
+Bearer of Silence
+Bloodbraid Elf
+Ignoble Hierarch
+Apex Devastator
+Birds of Paradise
+Maelstrom Wanderer
+Imoti, Celebrant of Bounty
+Prosper, Tome-Bound
+Wild-Magic Sorcerer
+Averna, the Chaos Bloom
+Yidris, Maelstrom Wielder

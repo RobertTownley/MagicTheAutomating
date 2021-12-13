@@ -1,0 +1,100 @@
+Plains
+Mountain
+Swamp
+Plains
+Mountain
+Swamp
+Plains
+Mountain
+Castle Embereth
+Seraph Sanctuary
+Caves of Koilos
+Graven Cairns
+Blinkmoth Nexus
+Unclaimed Territory
+Dwarven Mine
+Isolated Chapel
+Temple of Silence
+Savai Triome
+Castle Ardenvale
+Hall of Heliod's Generosity
+Maze of Ith
+Urborg, Tomb of Yawgmoth
+Rogue's Passage
+Throne of the High City
+Reliquary Tower
+Bojuka Bog
+Sundown Pass
+Shattered Sanctum
+Vindicate
+Profane Tutor
+Diabolic Intent
+Day of Judgment
+Wheel of Fortune
+Demonic Tutor
+Merciless Eviction
+Damn
+Ruinous Ultimatum
+Vanquish the Horde
+Village Rites
+Unbreakable Formation
+You Find Some Prisoners
+Ajani's Presence
+Vanishing Verse
+Sejiri Shelter // Sejiri Glacier
+Crackling Doom
+Boros Charm
+Anguished Unmaking
+Deflecting Palm
+Path to Exile
+Swords to Plowshares
+Zariel, Archduke of Avernus
+Elspeth, Sun's Champion
+Underworld Connections
+Animate Dead
+Kaya's Ghostform
+Dictate of Erebos
+Stolen Strategy
+Blind Obedience
+Court of Ire
+Court of Ambition
+Court of Grace
+Phyrexian Arena
+Ghostly Prison
+Archaeomancer's Map
+Star Compass
+Crawlspace
+Heirloom Blade
+Prying Blade
+Darksteel Ingot
+Sunforger
+Skullclamp
+Talisman of Indulgence
+Talisman of Conviction
+Talisman of Hierarchy
+Arcane Signet
+Wedding Ring
+Odric, Master Tactician
+Vilis, Broker of Blood
+Ophiomancer
+Kaalia, Zenith Seeker
+Odric, Lunarch Marshal
+Coercive Recruiter
+Dire Fleet Neckbreaker
+Silvar, Devourer of the Free
+Sower of Discord
+Emeria Angel
+Dreadhorde Arcanist
+Xantcha, Sleeper Agent
+Keeper of the Accord
+Esper Sentinel
+Windborn Muse
+Emberwilde Captain
+Archon of Coronation
+Mangara, the Diplomat
+Kardur, Doomscourge
+Breena, the Demagogue
+Karazikar, the Eye Tyrant
+Kambal, Consul of Allocation
+Adeline, Resplendent Cathar
+Queen Marchesa

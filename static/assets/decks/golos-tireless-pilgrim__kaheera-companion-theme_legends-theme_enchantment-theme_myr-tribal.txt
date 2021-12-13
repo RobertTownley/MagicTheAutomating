@@ -1,0 +1,100 @@
+Forest
+Mountain
+Swamp
+Island
+Plains
+Tanglepool Bridge
+City of Brass
+Temple of Silence
+Windswept Heath
+Zhalfirin Void
+Mistveil Plains
+Izzet Guildgate
+Path of Ancestry
+Krosan Verge
+Flamekin Village
+Bonders' Enclave
+Fabled Passage
+Temple of Epiphany
+Goldmire Bridge
+Urza's Saga
+Urborg, Tomb of Yawgmoth
+Temple of the False God
+Ancient Tomb
+Bojuka Bog
+Yavimaya, Cradle of Growth
+Thespian's Stage
+Maze's End
+Cascading Cataracts
+Field of the Dead
+Snow-Covered Island
+Snow-Covered Forest
+Deserted Beach
+Reliquary Tower
+Misty Rainforest
+Skyshroud Claim
+Replenish
+Haunting Voyage
+Saheeli's Artistry
+Plague Wind
+Merciless Eviction
+Titanic Ultimatum
+Demonic Tutor
+Rampant Growth
+Ruinous Ultimatum
+Circuitous Route
+Kodama's Reach
+Farseek
+Cultivate
+Return to Dust
+Fracture
+Force of Will
+Khalni Ambush // Khalni Territory
+Cyclonic Rift
+Swords to Plowshares
+Brainstorm
+Mystical Tutor
+Tezzeret, Agent of Bolas
+Teferi, Time Raveler
+Ugin, the Spirit Dragon
+Wrenn and Seven
+Sanctum of Calm Waters
+Court of Ambition
+Seal of Primordium
+Greater Auramancy
+Starfield of Nyx
+Omniscience
+Exploration
+Rhystic Study
+Teleportation Circle
+Smothering Tithe
+Voltaic Key
+Bident of Thassa
+Scourglass
+Trading Post
+Sensei's Divining Top
+Lightning Greaves
+Expedition Map
+Crucible of Worlds
+Chromatic Orrery
+Horde of Notions
+Dragonlord Ojutai
+Protean Thaumaturge
+Sarcomite Myr
+Parcel Myr
+Apex Devastator
+Alms Collector
+Lodestone Myr
+Daxos the Returned
+Nylea, Keen-Eyed
+Solemn Simulacrum
+Ramunap Excavator
+Esika, God of the Tree // The Prismatic Bridge
+Faeburrow Elder
+Eternal Witness
+Azusa, Lost but Seeking
+Birds of Paradise
+Tatyova, Benthic Druid
+Dryad of the Ilysian Grove
+Augur of Autumn
+Golos, Tireless Pilgrim

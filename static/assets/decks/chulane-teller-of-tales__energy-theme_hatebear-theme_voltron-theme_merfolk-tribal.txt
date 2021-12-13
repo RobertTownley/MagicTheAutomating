@@ -1,0 +1,100 @@
+Island
+Plains
+Forest
+Island
+Plains
+Forest
+Island
+Plains
+Forest
+Island
+Plains
+Forest
+Strip Mine
+Vivid Meadow
+Maze of Ith
+Hallowed Fountain
+Novijen, Heart of Progress
+Karn's Bastion
+Field of Ruin
+Urborg, Tomb of Yawgmoth
+Minamo, School at Water's Edge
+Krosan Verge
+Castle Garenbrig
+Ancient Tomb
+Gaea's Cradle
+Temple of the False God
+Field of the Dead
+Alchemist's Refuge
+Yavimaya, Cradle of Growth
+Reliquary Tower
+Deserted Beach
+Dreamroot Cascade
+Attune with Aether
+Overgrown Farmland
+Deeproot Elite
+Merfolk Mistbinder
+Silence
+Reconnaissance Mission
+Solve the Equation
+Explosive Vegetation
+Time Wipe
+Finale of Devastation
+Cultivate
+Quandrix Command
+Ghostly Flicker
+Mana Tithe
+Highspire Infusion
+Cyclonic Rift
+Dovin's Veto
+Eladamri's Call
+Swords to Plowshares
+Counterspell
+Aether Tunnel
+Blanchwood Armor
+Rhystic Study
+Aluren
+Guardian Project
+Intruder Alarm
+Woodweaver's Puzzleknot
+Chrome Mox
+Cloudstone Curio
+Arcane Signet
+Yasharn, Implacable Earth
+Sythis, Harvest's Hand
+Master of the Pearl Trident
+Flux Channeler
+Rafiq of the Many
+Vizier of the Menagerie
+Thrasios, Triton Hero
+Peregrine Drake
+Qasali Pridemage
+Quirion Ranger
+Biomancer's Familiar
+Wake Thrasher
+Cosi's Trickster
+Spellseeker
+Aetherwind Basker
+Architect of the Untamed
+Sanctum Weaver
+Evolution Sage
+Faeburrow Elder
+Birds of Paradise
+Paradise Druid
+Frilled Mystic
+Eternal Witness
+Reclamation Sage
+Fyndhorn Elves
+Tatyova, Benthic Druid
+Avacyn's Pilgrim
+Lotus Cobra
+Elvish Mystic
+Beast Whisperer
+Shrieking Drake
+Whitemane Lion
+Llanowar Elves
+Temur Sabertooth
+Craterhoof Behemoth
+Cathar Commando
+Augur of Autumn
+Chulane, Teller of Tales

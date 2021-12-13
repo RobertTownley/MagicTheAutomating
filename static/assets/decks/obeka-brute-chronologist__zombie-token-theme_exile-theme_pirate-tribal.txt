@@ -1,0 +1,100 @@
+Island
+Mountain
+Swamp
+Island
+Mountain
+Swamp
+Island
+Dimir Aqueduct
+Westvale Abbey // Ormendahl, Profane Prince
+Underground Sea
+Flooded Strand
+Training Center
+Tainted Isle
+Luxury Suite
+Tainted Peak
+Scavenger Grounds
+Ghost Quarter
+Temple of the False God
+Lotus Field
+Command Beacon
+Ancient Tomb
+Urborg, Tomb of Yawgmoth
+Minamo, School at Water's Edge
+Reliquary Tower
+Bojuka Bog
+Stormcarved Coast
+Haunted Ridge
+Shipwreck Marsh
+Cruel Ultimatum
+Chart a Course
+Ghouls' Night Out
+Heat Shimmer
+Dreadbore
+Hate Mirage
+Windfall
+Ideas Unbound
+Blasphemous Act
+Wake to Slaughter
+Alchemist's Gambit
+Treacherous Urge
+Macabre Mockery
+Poison the Cup
+Village Rites
+Through the Breach
+Demonic Consultation
+Dark Ritual
+Fact or Fiction
+Cyclonic Rift
+Chaos Warp
+Discontinuity
+Cauldron Dance
+Final Fortune
+Glorious End
+Counterspell
+Saheeli Rai
+Court of Cunning
+Makeshift Munitions
+Leyline of the Void
+Rhystic Study
+Sneak Attack
+Flameshadow Conjuring
+Uba Mask
+Vanquisher's Banner
+Ashnod's Altar
+Thran Dynamo
+Oracle's Vault
+Izzet Signet
+Tormod's Crypt
+Whip of Erebos
+Talisman of Creativity
+Mimic Vat
+Lightning Greaves
+Sundial of the Infinite
+Swiftfoot Boots
+Arcane Signet
+Sol Ring
+Oona, Queen of the Fae
+Cryptbreaker
+Ravenous Rotbelly
+Wilhelt, the Rotcleaver
+Rune-Scarred Demon
+Slippery Scoundrel
+Daring Saboteur
+Etali, Primal Storm
+Corpse Connoisseur
+Sailor of Means
+Jin-Gitaxias, Core Augur
+Sedris, the Traitor King
+Apprentice Necromancer
+Rakshasa Debaser
+Delina, Wild Mage
+Kiki-Jiki, Mirror Breaker
+Ilharg, the Raze-Boar
+Puppeteer Clique
+Hellkite Courser
+Zara, Renegade Recruiter
+Araumi of the Dead Tide
+Identity Thief
+Feldon of the Third Path
+Obeka, Brute Chronologist

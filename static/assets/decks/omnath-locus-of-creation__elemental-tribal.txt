@@ -1,0 +1,100 @@
+Plains
+Forest
+Mountain
+Island
+Plains
+Forest
+Mountain
+Island
+Plains
+Forest
+Mountain
+Azorius Chancery
+Gaea's Cradle
+Kessig Wolf Run
+Primal Beyond
+Cinder Glade
+Flamekin Village
+Naya Panorama
+Prismatic Vista
+Plateau
+Thespian's Stage
+Ghost Town
+Oboro, Palace in the Clouds
+Valakut, the Molten Pinnacle
+Strip Mine
+Reliquary Tower
+Yavimaya, Cradle of Growth
+Field of the Dead
+Snow-Covered Island
+Snow-Covered Forest
+Stormcarved Coast
+Dreamroot Cascade
+Carpet of Flowers
+Exotic Orchard
+Faeburrow Elder
+Krosan Verge
+Multani, Yavimaya's Avatar
+Rootbound Crag
+Frontier Bivouac
+Solemn Simulacrum
+Splendid Reclamation
+Explosive Vegetation
+Cartographer's Survey
+Reshape the Earth
+Urban Evolution
+Sylvan Awakening
+Explore
+Scapeshift
+Rampant Growth
+Kodama's Reach
+Farseek
+Cultivate
+Eureka Moment
+Pact of Negation
+Heroic Intervention
+Eladamri's Call
+Double Major
+Crop Rotation
+Growth Spiral
+Harrow
+Counterspell
+Path to Exile
+Beast Within
+Wrenn and Seven
+Retreat to Emeria
+Garruk's Uprising
+Zendikar's Roil
+Exploration
+Felidar Retreat
+Seer's Sundial
+Crucible of Worlds
+Forgotten Ancient
+Ruin Crab
+Solitude
+Coiling Oracle
+Fertilid
+Rubblehulk
+Sun Titan
+Leafkin Druid
+Smokebraider
+Noble Hierarch
+Undergrowth Champion
+Oracle of Mul Daya
+Incandescent Soulstoke
+Obuun, Mul Daya Ancestor
+Aesi, Tyrant of Gyre Strait
+Dryad of the Ilysian Grove
+Ancient Greenwarden
+Scute Swarm
+Tatyova, Benthic Druid
+Rampaging Baloths
+Avenger of Zendikar
+Mina and Denn, Wildborn
+Ramunap Excavator
+Azusa, Lost but Seeking
+Omnath, Locus of Rage
+Lotus Cobra
+Augur of Autumn
+Cultivator Colossus
+Omnath, Locus of Creation

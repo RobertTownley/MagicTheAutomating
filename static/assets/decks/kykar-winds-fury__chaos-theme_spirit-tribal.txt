@@ -1,0 +1,100 @@
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Skycloud Expanse
+Homeward Path
+Witch's Clinic
+Mistveil Plains
+Lonely Sandbar
+Access Tunnel
+Inventors' Fair
+Castle Embereth
+Arid Mesa
+Urza's Saga
+Temple of the False God
+Hall of Heliod's Generosity
+Castle Vantress
+Ancient Tomb
+Mystic Sanctuary
+Reliquary Tower
+Sundown Pass
+Deserted Beach
+Stormcarved Coast
+Wayfarer's Bauble
+Nine Lives
+Finale of Revelation
+Scrambleverse
+Earthquake
+Crash Through
+Winds of Abandon
+Sleight of Hand
+Windfall
+Jeska's Will
+Gitaxian Probe
+Faithless Looting
+Preordain
+Ponder
+Silence
+Arcane Denial
+Chaos Warp
+Synthetic Destiny
+Cyclonic Rift
+Reverberate
+Boros Charm
+Fighting Chance
+Generous Gift
+Fierce Guardianship
+Opt
+Dovin's Veto
+Brainstorm
+Mystical Tutor
+Frantic Search
+Path to Exile
+Counterspell
+Swords to Plowshares
+Faithful Mending
+Consider
+Lukka, Coppercoat Outcast
+Narset, Parter of Veils
+Saheeli, Sublime Artificer
+Eye of the Storm
+Darksteel Mutation
+Field of Souls
+Sorcerer Class
+Impact Tremors
+Whirlwind of Thought
+Whispersilk Cloak
+Coat of Arms
+Thought Vessel
+Shadowspear
+Wizard's Spellbook
+Lightning Greaves
+Isochron Scepter
+Talisman of Progress
+Talisman of Conviction
+Talisman of Creativity
+Skullclamp
+Zndrsplt, Eye of Wisdom
+Triskaidekaphile
+Trinket Mage
+Goblin Traprunner
+Twilight Drover
+Perplexing Chimera
+Guttersnipe
+Elsha of the Infinite
+Young Pyromancer
+Talrand, Sky Summoner
+Archmage Emeritus
+Storm-Kiln Artist
+Harmonic Prodigy
+Kykar, Wind's Fury

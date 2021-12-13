@@ -1,0 +1,100 @@
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Polluted Delta
+Isolated Watchtower
+Path of Ancestry
+Fetid Pools
+Vault of the Archangel
+Scrubland
+Underground Sea
+Unclaimed Territory
+Exotic Orchard
+Bojuka Bog
+Urborg, Tomb of Yawgmoth
+Ancient Tomb
+Reliquary Tower
+Hall of Heliod's Generosity
+Snow-Covered Island
+Shipwreck Marsh
+Deserted Beach
+Shattered Sanctum
+Cleansing Meditation
+Decree of Pain
+Inscription of Insight
+Resurgent Belief
+Ponder
+Demonic Tutor
+Utter End
+Force of Negation
+Complicate
+Murderous Cut
+Dissolve
+Impulse
+Path to Exile
+Mana Drain
+Negate
+Enlightened Tutor
+Swan Song
+Cyclonic Rift
+Brainstorm
+Dovin's Veto
+Swords to Plowshares
+Mystical Tutor
+Counterspell
+Teferi, Hero of Dominaria
+Jace, Wielder of Mysteries
+Narset, Parter of Veils
+Hyena Umbra
+Black Market
+Ghoulish Procession
+Grave Betrayal
+Empyrial Armor
+Aqueous Form
+The Eldest Reborn
+Court of Grace
+Minimus Containment
+Reconnaissance
+Graf Harvest
+Curator's Ward
+Aura of Silence
+Shielded by Faith
+Mirrormade
+Oblivion Ring
+Ethereal Armor
+Steel of the Godhead
+Necropotence
+Diplomatic Immunity
+Grasp of Fate
+Ghostly Prison
+Hallowed Haunting
+Skullclamp
+Aetherflux Reservoir
+Grimoire of the Dead
+Commander's Sphere
+Nyx Lotus
+Lightning Greaves
+Fellwar Stone
+Talisman of Progress
+Talisman of Hierarchy
+Talisman of Dominance
+Swiftfoot Boots
+Cemetery Reaper
+Undead Alchemist
+Midnight Reaper
+Vega, the Watcher
+Heliod, God of the Sun
+Laboratory Maniac
+Notion Thief
+Drannith Magistrate
+Sun Titan
+Opposition Agent
+Thassa's Oracle
+Esper Sentinel
+Malevolent Hermit // Benevolent Geist
+Zur the Enchanter

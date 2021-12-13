@@ -1,0 +1,100 @@
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Blasted Landscape
+Shivan Reef
+Seat of the Synod
+City of Brass
+Kher Keep
+Myriad Landscape
+Temple of Triumph
+Evolving Wilds
+Nykthos, Shrine to Nyx
+Urza's Saga
+Temple of the False God
+Hall of Heliod's Generosity
+Castle Vantress
+Ancient Tomb
+Mystic Sanctuary
+Reliquary Tower
+Sundown Pass
+Deserted Beach
+Stormcarved Coast
+Flourishing Fox
+Rip Apart
+Arid Mesa
+Borrowed Time
+Grip of Chaos
+Sweltering Suns
+Sevinne's Reclamation
+Polymorph
+Fell the Mighty
+Mana Geyser
+Angelfire Ignition
+Wheel of Misfortune
+Solve the Equation
+Windfall
+Jeska's Will
+Gitaxian Probe
+Faithless Looting
+Preordain
+Ponder
+Otherworldly Journey
+Sheltering Light
+Zenith Flare
+Reach Through Mists
+Reverberate
+Fling
+Clear
+Rescind
+Dovin's Veto
+Brainstorm
+Mystical Tutor
+Frantic Search
+Path to Exile
+Counterspell
+Swords to Plowshares
+Faithful Mending
+Consider
+Lukka, Coppercoat Outcast
+Saheeli, Sublime Artificer
+Wild Evocation
+Monologue Tax
+Stolen Strategy
+Jeskai Ascendancy
+Sorcerer Class
+Impact Tremors
+Whirlwind of Thought
+Livewire Lash
+Strixhaven Stadium
+Whispersilk Cloak
+Ruby Medallion
+Scroll of the Masters
+Swiftfoot Boots
+Sensei's Divining Top
+Lightning Greaves
+Isochron Scepter
+Talisman of Progress
+Talisman of Conviction
+Talisman of Creativity
+Skullclamp
+Spark Double
+Sephara, Sky's Blade
+Kessig Flamebreather
+Triskaidekaphile
+Young Pyromancer
+Talrand, Sky Summoner
+Archmage Emeritus
+Storm-Kiln Artist
+Harmonic Prodigy
+Kykar, Wind's Fury

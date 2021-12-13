@@ -1,0 +1,100 @@
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Brightclimb Pathway // Grimclimb Pathway
+Underground Sea
+Shambling Vent
+Watery Grave
+Esper Panorama
+Zhalfirin Void
+Scrying Sheets
+Adarkar Wastes
+Faerie Conclave
+Underdark Rift
+Clearwater Pathway // Murkwater Pathway
+Bojuka Bog
+Reliquary Tower
+Buried Ruin
+Academy Ruins
+Inventors' Fair
+Darksteel Citadel
+Ancient Den
+Vault of Whispers
+Seat of the Synod
+Shipwreck Marsh
+Deserted Beach
+Shattered Sanctum
+Supreme Verdict
+Maddening Cacophony
+Vindicate
+One with the Machine
+Fabricate
+Vanquish the Horde
+Stoic Rebuttal
+Inkshield
+Utter End
+Vanishing Verse
+Fierce Guardianship
+Swords to Plowshares
+Whir of Invention
+Thirst for Knowledge
+Frantic Search
+Faithful Mending
+Teferi, Time Raveler
+Tezzeret the Seeker
+Tezzeret, Master of the Bridge
+Reconnaissance Mission
+Efficient Construction
+Teleportation Circle
+Mirrodin Besieged
+Thran Dynamo
+Mana Vault
+Marble Diamond
+Orzhov Signet
+Mox Opal
+Lithoform Engine
+Rod of Absorption
+Replicating Ring
+Worn Powerstone
+Codex Shredder
+Krark-Clan Ironworks
+Altar of the Brood
+Bolas's Citadel
+Scourglass
+Sword of the Meek
+Conjurer's Closet
+Unwinding Clock
+Darksteel Forge
+Thopter Foundry
+Time Sieve
+Sculpting Steel
+Platinum Angel
+Sun Titan
+Adarkar Valkyrie
+Archetype of Imagination
+Sphinx of the Steel Wind
+Dauthi Voidwalker
+Bladestitched Skaab
+Hailstorm Valkyrie
+Sludge Monster
+Kuldotha Forgemaster
+Ascendant Spirit
+Urza, Lord High Artificer
+Magister Sphinx
+Baleful Strix
+Sphinx Summoner
+Master Transmuter
+Solemn Simulacrum
+Etherium Sculptor
+Phyrexian Metamorph
+Emry, Lurker of the Loch
+Oswald Fiddlebender
+Padeem, Consul of Innovation
+Disciple of the Vault
+Blood Artist
+Sharuum the Hegemon

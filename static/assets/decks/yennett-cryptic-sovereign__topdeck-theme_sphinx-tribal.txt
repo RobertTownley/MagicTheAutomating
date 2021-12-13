@@ -1,0 +1,100 @@
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Nimbus Maze
+Mana Confluence
+Watery Grave
+Azorius Chancery
+Witch's Cottage
+Cavern of Souls
+Command Beacon
+Glacial Fortress
+Buried Ruin
+Hengegate Pathway // Mistgate Pathway
+Temple of the False God
+Rogue's Passage
+Mystic Sanctuary
+Castle Vantress
+Bojuka Bog
+Mortuary Mire
+Reliquary Tower
+Halimar Depths
+Shattered Sanctum
+Shipwreck Marsh
+Deserted Beach
+Extinction Event
+Fated Return
+Orzhov Signet
+Beacon of Unrest
+Warrant // Warden
+Plague Wind
+Boneyard Parley
+Scheming Symmetry
+Dream Cache
+Ponder
+Portent
+In Garruk's Wake
+Rise of the Dark Realms
+Condescend
+Aetherspouts
+Vampiric Tutor
+Cryptic Command
+Narset's Reversal
+Arcane Denial
+Anguished Unmaking
+Counterspell
+Mortify
+Brainstorm
+Path to Exile
+Mystical Tutor
+Swords to Plowshares
+Detention Sphere
+Kindred Discovery
+Mind's Dilation
+Soothsaying
+Curse of Unbinding
+Icon of Ancestry
+Seer's Lantern
+Extraplanar Lens
+Mana Geode
+Chrome Mox
+Brainstone
+Thran Dynamo
+Strionic Resonator
+Gilded Lotus
+Whispersilk Cloak
+Crystal Ball
+Sensei's Divining Top
+Commander's Sphere
+Lightning Greaves
+Swiftfoot Boots
+Serra Sphinx
+Sphinx Mindbreaker
+Augury Owl
+Thassa's Oracle
+Opposition Agent
+Sphinx of Uthuun
+Conundrum Sphinx
+Dimir Infiltrator
+Lier, Disciple of the Drowned
+Consecrated Sphinx
+Diluvian Primordial
+Magister Sphinx
+Enigma Sphinx
+Artisan of Kozilek
+Thryx, the Sudden Storm
+Dazzling Sphinx
+Vega, the Watcher
+Varragoth, Bloodsky Sire
+Void Winnower
+Prognostic Sphinx
+Toxrill, the Corrosive
+Yennett, Cryptic Sovereign

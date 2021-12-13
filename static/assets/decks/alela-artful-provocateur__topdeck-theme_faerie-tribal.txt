@@ -1,0 +1,100 @@
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Myriad Landscape
+Westvale Abbey // Ormendahl, Profane Prince
+Morphic Pool
+Irrigated Farmland
+Temple of Silence
+Urza's Saga
+Isolated Watchtower
+Command Beacon
+Esper Panorama
+Snow-Covered Plains
+Darksteel Citadel
+Academy Ruins
+Bojuka Bog
+Ancient Den
+Reliquary Tower
+Hall of Heliod's Generosity
+Vault of Whispers
+Seat of the Synod
+Shattered Sanctum
+Shipwreck Marsh
+Deserted Beach
+Rogue's Passage
+Mistbind Clique
+Whip of Erebos
+Sphinx of Foresight
+Notorious Throng
+Fierce Guardianship
+In Garruk's Wake
+Dance of the Manse
+By Invitation Only
+Generous Gift
+Path to Exile
+Familiar's Ruse
+Memory Plunder
+Cyclonic Rift
+Dovin's Veto
+Counterspell
+Swords to Plowshares
+Kaya, Geist Hunter
+Narset, Parter of Veils
+Tezzeret, Master of the Bridge
+Ethereal Absolution
+Faerie Tauntings
+Frogify
+Shark Typhoon
+Mystic Redaction
+Sphere of Safety
+Paladin Class
+Lawmage's Binding
+Bitterblossom
+All That Glitters
+Etchings of the Chosen
+Intangible Virtue
+Favorable Winds
+Reconnaissance Mission
+Ghostly Prison
+Hallowed Haunting
+Mana Vault
+Thought Vessel
+Shadowspear
+Time Sieve
+Orzhov Signet
+Scroll Rack
+Fellwar Stone
+Aether Spellbomb
+Bolas's Citadel
+Talisman of Dominance
+Talisman of Hierarchy
+Lightning Greaves
+Skullclamp
+Bident of Thassa
+Swiftfoot Boots
+Arcane Signet
+Faerie Impostor
+Arcanist's Owl
+Puppeteer Clique
+Sower of Temptation
+Sprite Noble
+Watcher of the Spheres
+Faerie Formation
+Starnheim Courser
+Solemn Simulacrum
+Scion of Oona
+Ornithopter of Paradise
+Esper Sentinel
+Baleful Strix
+Empyrean Eagle
+Sephara, Sky's Blade
+Alela, Artful Provocateur

@@ -1,0 +1,100 @@
+Plains
+Forest
+Swamp
+Island
+Plains
+Forest
+Exotic Orchard
+Shattered Sanctum
+Llanowar Wastes
+Indatha Triome
+Hallowed Fountain
+Sea of Clouds
+Bountiful Promenade
+Phyrexian Tower
+Terramorphic Expanse
+Savannah
+Zagoth Triome
+Opal Palace
+Breeding Pool
+Rogue's Passage
+Bojuka Bog
+Urborg, Tomb of Yawgmoth
+Temple of the False God
+Dreadship Reef
+Interplanar Beacon
+Gavony Township
+Yavimaya, Cradle of Growth
+Reliquary Tower
+Karn's Bastion
+Deserted Beach
+Deathcap Glade
+Dreamroot Cascade
+Fabled Passage
+Norn's Annex
+Three Visits
+Mana Crypt
+Triumph of the Hordes
+Time Wipe
+Black Sun's Zenith
+Farseek
+Cultivate
+Tezzeret's Gambit
+Harrow
+Swan Song
+Ignite the Beacon
+Unbounded Potential
+Teferi's Protection
+Anguished Unmaking
+Counterspell
+Cyclonic Rift
+Swords to Plowshares
+Teferi, Time Raveler
+Garruk Wildspeaker
+Nissa, Voice of Zendikar
+Dovin Baan
+Tevesh Szat, Doom of Fools
+Teferi, Hero of Dominaria
+Ugin, the Spirit Dragon
+Narset, Parter of Veils
+Teferi, Master of Time
+Tamiyo, Field Researcher
+Teferi, Who Slows the Sunset
+The Meathook Massacre
+Aid from the Cowl
+Phyrexian Arena
+Oath of Teferi
+Rhystic Study
+Doubling Season
+Inexorable Tide
+Commander's Plate
+Darksteel Ingot
+Rings of Brighthearth
+Talisman of Curiosity
+Sword of Truth and Justice
+Contagion Engine
+Everflowing Chalice
+Astral Cornucopia
+Arcane Signet
+Aetherwind Basker
+Architect of the Untamed
+Bloom Tender
+Ghave, Guru of Spores
+Aethersquall Ancient
+Abzan Falconer
+Shipwreck Moray
+Thassa, Deep-Dwelling
+Ichor Rats
+Aether Poisoner
+Fathom Mage
+Crystalline Crawler
+Spark Double
+Carth the Lion
+Shalai, Voice of Plenty
+Flux Channeler
+Thrummingbird
+Vorinclex, Monstrous Raider
+Deepglow Skate
+Evolution Sage
+Toxrill, the Corrosive
+Atraxa, Praetors' Voice

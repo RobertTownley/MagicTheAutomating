@@ -1,0 +1,100 @@
+Island
+Plains
+Forest
+Mountain
+Swamp
+Island
+Plains
+Plateau
+Sandsteppe Citadel
+Sunpetal Grove
+Arcane Sanctum
+Jungle Shrine
+Branchloft Pathway // Boulderloft Pathway
+City of Brass
+Serra's Sanctum
+Bonders' Enclave
+Snow-Covered Swamp
+Savai Triome
+Deathcap Glade
+Treasure Vault
+Maze's End
+Maze of Ith
+Gaea's Cradle
+Temple of the False God
+Hall of Heliod's Generosity
+Cascading Cataracts
+Field of the Dead
+Bojuka Bog
+Urborg, Tomb of Yawgmoth
+Yavimaya, Cradle of Growth
+Ancient Tomb
+Reliquary Tower
+Sacred Foundry
+Shriekmaw
+Watery Grave
+Windfall
+Reshape the Earth
+Idyllic Tutor
+Haunting Voyage
+Rampant Growth
+Kodama's Reach
+Demonic Tutor
+Cultivate
+Farseek
+Dramatic Reversal
+Congregation at Dawn
+Heliod's Intervention
+Khalni Ambush // Khalni Territory
+White Sun's Zenith
+Veil of Summer
+Swan Song
+Cyclonic Rift
+Beast Within
+Mystical Tutor
+Counterspell
+Swords to Plowshares
+Animate Dead
+Pyrohemia
+Zendikar Resurgent
+Sphere of Safety
+Paradox Haze
+Mystic Remora
+Training Grounds
+Wilderness Reclamation
+Rhystic Study
+Smothering Tithe
+Mox Amber
+Isochron Scepter
+Arcane Signet
+Heroes' Podium
+Boros Signet
+Heartstone
+Lightning Greaves
+Fellwar Stone
+Sol Ring
+Wedding Ring
+Seht's Tiger
+Regal Caracal
+Oketra the True
+God-Eternal Oketra
+Fyndhorn Elves
+Llanowar Elves
+Callaphe, Beloved of the Sea
+Etali, Primal Storm
+Purphoros, God of the Forge
+Silverclad Ferocidons
+Dryad of the Ilysian Grove
+Faeburrow Elder
+Dockside Extortionist
+Esper Sentinel
+Ignoble Hierarch
+Birds of Paradise
+Seedborn Muse
+Zirda, the Dawnwaker
+Biomancer's Familiar
+Torens, Fist of the Angels
+Toxrill, the Corrosive
+Triskaidekaphile
+Malevolent Hermit // Benevolent Geist
+Kenrith, the Returned King

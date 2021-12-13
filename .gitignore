@@ -1,5 +1,8 @@
 # Project Stuff
-static
+static/assets/cards
+static/assets/themes
+static/assets/tribes
+static/assets/commanders
 
 __pycache__
 *.pyc

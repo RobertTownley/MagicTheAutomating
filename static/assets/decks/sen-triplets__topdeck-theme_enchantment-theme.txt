@@ -1,0 +1,100 @@
+Plains
+Swamp
+Island
+Plains
+Command Tower
+Isolated Chapel
+Creeping Tar Pit
+Azorius Chancery
+Strip Mine
+Thriving Moor
+Caves of Koilos
+Thriving Isle
+Lonely Sandbar
+Brightclimb Pathway // Grimclimb Pathway
+Castle Vantress
+Vivid Meadow
+Temple of the False God
+Cascading Cataracts
+Ancient Tomb
+Ancient Den
+Vault of Whispers
+Bojuka Bog
+Academy Ruins
+Reliquary Tower
+Seat of the Synod
+Deserted Beach
+Shipwreck Marsh
+Shattered Sanctum
+Grim Tutor
+Plea for Power
+Toxic Deluge
+Terminus
+Preordain
+Demonic Tutor
+Supreme Verdict
+Bribery
+Praetor's Grasp
+Vanquish the Horde
+Dark Ritual
+Disallow
+Swan Song
+Dissolve
+Esper Charm
+Pongify
+Cyclonic Rift
+Swords to Plowshares
+Mystical Tutor
+Path to Exile
+Counterspell
+Siphon Insight
+Tezzeret, Master of the Bridge
+Teferi, Time Raveler
+Narset, Parter of Veils
+Enchanted Evening
+Ethereal Armor
+Stony Silence
+Wizard Class
+Psychic Impetus
+Smothering Tithe
+Mind's Dilation
+Paradox Haze
+Celestial Dawn
+Telepathy
+Ghostly Prison
+Empowered Autogenerator
+Darksteel Ingot
+Sky Diamond
+Vessel of Endless Rest
+Spellbook
+Commander's Sphere
+Thran Dynamo
+Dimir Locket
+Mirage Mirror
+Isochron Scepter
+Unwinding Clock
+Sensei's Divining Top
+Swiftfoot Boots
+Mindslaver
+Lightning Greaves
+Gilded Lotus
+Fellwar Stone
+Notion Thief
+Ornithopter of Paradise
+Daxos the Returned
+Thieving Skydiver
+Fallen Shinobi
+Sepulchral Primordial
+Prognostic Sphinx
+Shimmer Myr
+Body of Knowledge
+Padeem, Consul of Innovation
+Drannith Magistrate
+Phyrexian Metamorph
+Opposition Agent
+Esper Sentinel
+Gonti, Lord of Luxury
+Vega, the Watcher
+Thief of Sanity
+Xanathar, Guild Kingpin
+Sen Triplets

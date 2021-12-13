@@ -1,0 +1,100 @@
+Forest
+Mountain
+Swamp
+Island
+Plains
+Urza's Tower
+Urza's Power Plant
+Sunhome, Fortress of the Legion
+Rockfall Vale
+Shizo, Death's Storehouse
+Unclaimed Territory
+Battlefield Forge
+Exotic Orchard
+Thornglint Bridge
+Tranquil Thicket
+Selesnya Guildgate
+Gavony Township
+Temple of the False God
+Ancient Tomb
+Bojuka Bog
+Yavimaya, Cradle of Growth
+Thespian's Stage
+Maze's End
+Reliquary Tower
+Cascading Cataracts
+Field of the Dead
+Snow-Covered Island
+Snow-Covered Forest
+Deserted Beach
+Eerie Ultimatum
+One with the Machine
+Replication Technique
+Winds of Abandon
+All Is Dust
+Yawgmoth's Vile Offering
+Plague Wind
+Demonic Tutor
+Rampant Growth
+Ruinous Ultimatum
+Circuitous Route
+Kodama's Reach
+Farseek
+Cultivate
+Utter End
+Fierce Guardianship
+Dispatch
+Khalni Ambush // Khalni Territory
+Dark Ritual
+Growth Spiral
+Vampiric Tutor
+Cyclonic Rift
+Swords to Plowshares
+Brainstorm
+Mystical Tutor
+Narset, Parter of Veils
+Ashiok, Dream Render
+Nicol Bolas, God-Pharaoh
+Ugin, the Spirit Dragon
+Wrenn and Seven
+Sanctum of Shattered Heights
+Journey to Eternity // Atzal, Cave of Eternity
+Song of Creation
+Mystic Remora
+Exploration
+Rhystic Study
+Teleportation Circle
+Smothering Tithe
+Forebear's Blade
+Basalt Monolith
+Krark-Clan Ironworks
+Blackblade Reforged
+Sensei's Divining Top
+Lightning Greaves
+Expedition Map
+Crucible of Worlds
+Chromatic Orrery
+Kethis, the Hidden Hand
+Wandering Archaic // Explore the Vastlands
+Nazahn, Revered Bladesmith
+Kaheera, the Orphanguard
+Loam Lion
+Leonin Relic-Warder
+Metallic Mimic
+Najeela, the Blade-Blossom
+Ulamog, the Infinite Gyre
+Silver Myr
+Leonin Arbiter
+Nyxbloom Ancient
+Sakura-Tribe Elder
+Solemn Simulacrum
+Ramunap Excavator
+Esika, God of the Tree // The Prismatic Bridge
+Faeburrow Elder
+Eternal Witness
+Azusa, Lost but Seeking
+Birds of Paradise
+Tatyova, Benthic Druid
+Dryad of the Ilysian Grove
+Augur of Autumn
+Golos, Tireless Pilgrim

@@ -1,0 +1,100 @@
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Polluted Delta
+Castle Locthwain
+Creeping Tar Pit
+Hengegate Pathway // Mistgate Pathway
+Orzhov Guildgate
+Jwar Isle Refuge
+New Benalia
+Terramorphic Expanse
+Academy Ruins
+Vault of Champions
+Radiant Fountain
+Maze of Ith
+Ancient Tomb
+Temple of the False God
+Hall of Heliod's Generosity
+Urborg, Tomb of Yawgmoth
+Bojuka Bog
+Reliquary Tower
+Shattered Sanctum
+Deserted Beach
+Shipwreck Marsh
+Corpse Augur
+Dimir Aqueduct
+Scoured Barrens
+Idyllic Tutor
+Wrath of God
+Austere Command
+Necrotic Hex
+Kindred Dominance
+Demonic Tutor
+Merciless Eviction
+Damn
+Supreme Verdict
+Fumigate
+Debt to the Deathless
+Mana Drain
+Fierce Guardianship
+Tragic Slip
+Path to Exile
+Dissolve
+Dovin's Veto
+Cyclonic Rift
+Anguished Unmaking
+Counterspell
+Swords to Plowshares
+Ajani, Strength of the Pride
+Angelic Accord
+Authority of the Consuls
+Graf Harvest
+The Eldest Reborn
+Revel in Riches
+Exquisite Blood
+Cleric Class
+Sanguine Bond
+Phyrexian Arena
+Ghostly Prison
+Sigarda's Splendor
+Dimir Locket
+Crowded Crypt
+Mana Geode
+Sentinel Totem
+Vanquisher's Banner
+The Book of Exalted Deeds
+Cosmos Elixir
+Alhammarret's Archive
+Bolas's Citadel
+Aetherflux Reservoir
+Well of Lost Dreams
+Callaphe, Beloved of the Sea
+Doom Whisperer
+Gleaming Overseer
+Fleshbag Marauder
+Vampire Nighthawk
+Undead Alchemist
+Gravecrawler
+Karlov of the Ghost Council
+Thoughtrender Lamia
+Fate Unraveler
+Serra Ascendant
+Vizkopa Guildmage
+Soul Warden
+Crested Sunmare
+Drogskol Reaver
+Rhox Faithmender
+Felidar Sovereign
+Kambal, Consul of Allocation
+Vito, Thorn of the Dusk Rose
+Voice of the Blessed
+Oloro, Ageless Ascetic

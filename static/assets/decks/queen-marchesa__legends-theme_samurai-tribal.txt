@@ -1,0 +1,100 @@
+Plains
+Mountain
+Swamp
+Plains
+Mountain
+Swamp
+Plains
+Mountain
+Arid Mesa
+War Room
+Tyrite Sanctum
+Windbrisk Heights
+Sacred Foundry
+Vault of Champions
+Battlefield Forge
+Rugged Prairie
+Untaidake, the Cloud Keeper
+Castle Ardenvale
+Hall of Heliod's Generosity
+Maze of Ith
+Urborg, Tomb of Yawgmoth
+Rogue's Passage
+Throne of the High City
+Reliquary Tower
+Bojuka Bog
+Sundown Pass
+Shattered Sanctum
+Debt to the Deathless
+Open the Armory
+Gift of Estates
+Waves of Aggression
+Demonic Tutor
+Merciless Eviction
+Damn
+Ruinous Ultimatum
+Vanquish the Horde
+Rebuff the Wicked
+Enlightened Tutor
+Dire Tactics
+Disenchant
+Fire Covenant
+Deflecting Swat
+Crackling Doom
+Boros Charm
+Anguished Unmaking
+Deflecting Palm
+Path to Exile
+Swords to Plowshares
+Sorin, Vengeful Bloodlord
+Elspeth, Sun's Champion
+Shared Triumph
+Fighter Class
+No Mercy
+Divine Visitation
+Land Tax
+Righteous Aura
+Assemble the Legion
+Blind Obedience
+Court of Ire
+Court of Ambition
+Court of Grace
+Phyrexian Arena
+Ghostly Prison
+Obelisk of Urd
+Archaeomancer's Map
+Coercive Portal
+Vanquisher's Banner
+Commander's Plate
+Swiftfoot Boots
+Skullclamp
+Talisman of Indulgence
+Talisman of Conviction
+Talisman of Hierarchy
+Arcane Signet
+Wedding Ring
+Kazuul, Tyrant of the Cliffs
+Cursed Ronin
+Garrulous Sycophant
+Fumiko the Lowblood
+Thalia, Heretic Cathar
+Archetype of Finality
+Grand Abolisher
+Teshar, Ancestor's Apostle
+Protector of the Crown
+Avacyn, Angel of Hope
+Nagao, Bound by Honor
+Adaptive Automaton
+Xantcha, Sleeper Agent
+Keeper of the Accord
+Esper Sentinel
+Windborn Muse
+Emberwilde Captain
+Archon of Coronation
+Mangara, the Diplomat
+Kardur, Doomscourge
+Breena, the Demagogue
+Karazikar, the Eye Tyrant
+Kambal, Consul of Allocation
+Adeline, Resplendent Cathar
+Queen Marchesa

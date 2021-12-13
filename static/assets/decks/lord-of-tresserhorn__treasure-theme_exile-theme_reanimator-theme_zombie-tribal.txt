@@ -1,0 +1,100 @@
+Island
+Mountain
+Swamp
+Island
+Mountain
+Swamp
+Island
+Mountain
+Swamp
+Island
+Mountain
+Swamp
+Island
+Barren Moor
+Volcanic Island
+War Room
+Luxury Suite
+Desolate Lighthouse
+Command Beacon
+Crosis's Catacombs
+Sulfurous Springs
+Sulfur Falls
+Reliquary Tower
+Cabal Coffers
+Hanweir Battlements // Hanweir, the Writhing Township
+Unholy Grotto
+Cathedral of War
+Kher Keep
+Shizo, Death's Storehouse
+Urborg, Tomb of Yawgmoth
+Bojuka Bog
+Rogue's Passage
+Dictate of Erebos
+Rhystic Study
+Wheel of Fortune
+Ghouls' Night Out
+Fevered Suspicion
+Wheel of Misfortune
+Demonic Tutor
+Blasphemous Act
+Chandra's Ignition
+Distortion Strike
+Fabricate
+Village Rites
+Force of Will
+Cyclonic Rift
+Rakdos Charm
+Spell Swindle
+Terminate
+Psychotic Fury
+Uncaged Fury
+Temur Battle Rage
+Tainted Strike
+Necropotence
+Grave Betrayal
+Secrets of the Dead
+Aqueous Form
+Phyresis
+Phyrexian Arena
+Fiendlash
+Chromatic Lantern
+Liquimetal Torque
+Bucknard's Everfull Purse
+Oracle's Vault
+Hammer of Nazahn
+Charcoal Diamond
+Fireshrieker
+Whispersilk Cloak
+Embercleave
+Lightning Greaves
+Torpor Orb
+Swiftfoot Boots
+Mask of Griselbrand
+Noosegraf Mob
+Archghoul of Thraben
+Grimgrin, Corpse-Born
+Impulsive Pilferer
+Deathbringer Thoctar
+Valki, God of Lies // Tibalt, Cosmic Impostor
+Opposition Agent
+Zombie Master
+Kess, Dissident Mage
+Dreadhorde Twins
+Poppet Stitcher // Poppet Factory
+Notion Thief
+Midnight Reaper
+Tribute Mage
+Nightscape Familiar
+Lord of the Accursed
+Reassembling Skeleton
+Diregraf Captain
+Wonder
+Anger
+Ghoulcaller Gisa
+Gravecrawler
+Headless Rider
+Hordewing Skaab
+Geralf, Visionary Stitcher
+Wilhelt, the Rotcleaver
+Lord of Tresserhorn

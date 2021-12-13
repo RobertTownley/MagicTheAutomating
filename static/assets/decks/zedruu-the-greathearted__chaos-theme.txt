@@ -1,0 +1,100 @@
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Boros Garrison
+Glacial Fortress
+Deserted Beach
+Exotic Orchard
+Glacial Chasm
+Irrigated Farmland
+Sacred Foundry
+Buried Ruin
+Tranquil Cove
+Mistveil Plains
+Maze of Ith
+Mikokoro, Center of the Sea
+Temple of the False God
+Kher Keep
+Homeward Path
+Hall of Heliod's Generosity
+Reliquary Tower
+Sundown Pass
+Stormcarved Coast
+Windfall
+Dance of the Manse
+Disrupt Decorum
+Mob Rule
+Supreme Verdict
+Political Trickery
+Approach of the Second Sun
+Harmless Offering
+Role Reversal
+Wear // Tear
+Desperate Gambit
+Chef's Kiss
+Chaotic Strike
+Counterspell
+Wrong Turn
+Swords to Plowshares
+Sudden Substitution
+Confusion in the Ranks
+Grasp of Fate
+Stasis Snare
+Pyromancer's Swath
+Leyline of Anticipation
+Wizard Class
+Delusions of Mediocrity
+Embargo
+Wild Research
+Gift of Immortality
+Smothering Tithe
+Propaganda
+Statecraft
+Illusions of Grandeur
+Aggressive Mining
+Puca's Mischief
+Paradox Haze
+Nine Lives
+Ghostly Prison
+Borrowed Time
+Talisman of Conviction
+Gate to the Aether
+Timesifter
+Mind Stone
+Izzet Signet
+Archaeomancer's Map
+Whispersilk Cloak
+Lightning Greaves
+Howling Mine
+Thought Vessel
+Pendant of Prosperity
+Bucknard's Everfull Purse
+Teferi's Puzzle Box
+Wedding Ring
+Daring Thief
+Kazuul, Tyrant of the Cliffs
+Goblin Kaboomist
+Goblin Cadets
+Body of Knowledge
+Baird, Steward of Argive
+Keeper of the Accord
+Nadir Kraken
+Rust Elemental
+Steel Golem
+Akroan Horse
+Perplexing Chimera
+Bazaar Trader
+Vedalken Plotter
+Humble Defector
+Triskaidekaphile
+Zedruu the Greathearted

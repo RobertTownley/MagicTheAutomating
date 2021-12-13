@@ -1,3 +1,5 @@
+Mountain
+Island
 Plains
 Forest
 Mountain
@@ -5,19 +7,17 @@ Island
 Plains
 Forest
 Mountain
-Wandering Fumarole
-Alchemist's Refuge
-Steam Vents
-Bloodstained Mire
-Savannah
-Dark Depths
-Mystic Monastery
 Temple of Abandon
-Plateau
-Wasteland
-Boros Garrison
-Overgrown Farmland
-Vesuva
+Temple of Mystery
+Seaside Citadel
+Kessig Wolf Run
+Cascading Cataracts
+Snow-Covered Plains
+Blighted Woodland
+Temple Garden
+Snow-Covered Mountain
+Crawling Barrens
+Mystic Monastery
 Thespian's Stage
 Ghost Town
 Oboro, Palace in the Clouds
@@ -30,59 +30,59 @@ Snow-Covered Island
 Snow-Covered Forest
 Stormcarved Coast
 Dreamroot Cascade
-Teferi's Protection
-Pyre of Heroes
-Sol Ring
-Multani, Yavimaya's Avatar
-Mana Confluence
-Arcane Denial
-Cinder Glade
-Nylea's Intervention
+Vandalblast
+Animist's Awakening
+Nahiri's Lithoforming
 Genesis Wave
-Sea Gate Restoration // Sea Gate, Reborn
-Windfall
-Turntimber Symbiosis // Turntimber, Serpentine Wood
-Bala Ged Recovery // Bala Ged Sanctuary
+Nissa's Renewal
+Eldritch Evolution
 Explore
 Scapeshift
 Rampant Growth
 Kodama's Reach
 Farseek
 Cultivate
-Worldly Tutor
-Deprive
-Roiling Regrowth
-Ephemerate
-Silence
+Valakut Awakening // Valakut Stoneforge
+Eureka Moment
+Noxious Revival
+Mana Drain
+Force of Vigor
+Generous Gift
+Crop Rotation
 Growth Spiral
 Harrow
 Counterspell
 Path to Exile
 Beast Within
+Nissa, Who Shakes the World
 Wrenn and Seven
-Song of Creation
-Druid Class
+Teleportation Circle
+Aura Shards
+Elemental Bond
+Valakut Exploration
 Zendikar's Roil
 Exploration
 Felidar Retreat
-Chromatic Orrery
+Izzet Signet
+Pyre of Heroes
+Darksteel Ingot
+Seer's Sundial
+Horn of Greed
 Crucible of Worlds
-Coiling Oracle
-Maja, Bretagard Protector
-Endurance
-Incandescent Soulstoke
-Roil Elemental
-Elvish Reclaimer
-Ruin Crab
+Tireless Provisioner
+Ingot Chewer
+Rubblehulk
+Yasharn, Implacable Earth
+Fertilid
+Oracle of Mul Daya
+Thunderkin Awakener
+Flamekin Harbinger
+Springbloom Druid
 Soul of the Harvest
-Kodama of the East Tree
-Foundation Breaker
-Scaled Herbalist
-Leafkin Druid
-Sakura-Tribe Scout
-Cavalier of Flame
-Bane of Progress
-Omnath, Locus of the Roil
+Voice of Resurgence
+Courser of Kruphix
+Endurance
+Cavalier of Thorns
 Aesi, Tyrant of Gyre Strait
 Dryad of the Ilysian Grove
 Ancient Greenwarden

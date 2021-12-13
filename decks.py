@@ -2,6 +2,7 @@ import math
 import random
 import typing as T
 from assets import save_asset_for_card
+from exceptions import DeckException
 
 
 from cards import (
@@ -95,11 +96,17 @@ def fill_deck_with_basic_lands(deck):
         "w": Card.build_from_filepath("cards/plains.json"),
         "u": Card.build_from_filepath("cards/island.json"),
     }
+
+    colors = deck.commander.colors
+    count = 0
     while deck.card_count < 99:
-        for color in deck.commander.colors:
+        count += 1
+        for color in colors:
             if deck.card_count < 99:
                 land = LAND_MAP[color]
                 deck.add_card(land)
+        if count > 100:
+            raise DeckException()
 
 
 def save_deck(deck):

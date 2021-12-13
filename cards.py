@@ -49,6 +49,8 @@ def collect_cards_from_tribe(tribe: T.Union[Tribe, None]) -> T.List[Card]:
 def get_cards_from_cardlist(cardlist: dict) -> T.List[Card]:
     cards = []
     for cardview in cardlist["cardviews"]:
+        if "/" in cardview["sanitized"] or cardview["sanitized"].count("-") > 6:
+            continue
         try:
             cards.append(Card.build_from_resource(cardview))
         except Exception as e:

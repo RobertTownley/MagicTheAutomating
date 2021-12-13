@@ -110,7 +110,9 @@ def save_deck(deck):
     ]
     filename = "_".join([p for p in parts if p])
 
-    content = "\n".join([f"{c.name}" for c in [*deck.cards, deck.commander]])
+    content = "\n".join(
+        [f"{c.name}" for c in [*list(reversed(deck.cards)), deck.commander]]
+    )
     with open(f"static/assets/decks/{filename}.txt", "w+") as f:
         f.write(content)
     print(deck)

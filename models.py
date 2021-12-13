@@ -35,7 +35,7 @@ class Theme:
 
     @property
     def sanitized_name(self):
-        return f"{slugify(self.name)}-theme"
+        return slugify(self.name)
 
 
 @dataclass
@@ -63,7 +63,7 @@ class Tribe:
 
     @property
     def sanitized_name(self):
-        return f"{slugify(self.name)}-tribe"
+        return slugify(self.name)
 
 
 @dataclass

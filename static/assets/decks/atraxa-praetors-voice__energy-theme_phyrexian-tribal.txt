@@ -1,23 +1,23 @@
-Swamp
-Island
-Plains
 Forest
 Swamp
 Island
 Plains
 Forest
-City of Brass
-Reflecting Pool
-Temple Garden
-Temple of Deceit
-Evolving Wilds
-Saltcrusted Steppe
-Rejuvenating Springs
-Cabal Stronghold
-Inventors' Fair
-Vivid Creek
-Cabal Coffers
+Swamp
+Island
+Plains
+Forest
+Vault of Champions
 Arcane Sanctum
+Glacial Fortress
+Shipwreck Marsh
+Pendelhaven
+Llanowar Wastes
+Shattered Sanctum
+Reflecting Pool
+Nesting Grounds
+Temple of Mystery
+Maze of Ith
 Bojuka Bog
 Urborg, Tomb of Yawgmoth
 Temple of the False God
@@ -30,62 +30,62 @@ Karn's Bastion
 Deserted Beach
 Deathcap Glade
 Dreamroot Cascade
-Skyshroud Claim
-Vanquish the Horde
-Rampant Growth
-Agadeem's Awakening // Agadeem, the Undercrypt
+Trigon of Infestation
+Charcoal Diamond
+Aethertide Whale
+Fuel for the Cause
+Caress of Phyrexia
+Circuitous Route
+The Elderspell
 Merciless Eviction
 Farseek
 Cultivate
 Tezzeret's Gambit
-Grim Affliction
-Force of Will
-Disappearing Act
+Vines of Vastwood
+Fierce Guardianship
 Anguished Unmaking
 Counterspell
 Cyclonic Rift
 Swords to Plowshares
-Sorin, Grim Nemesis
-Ajani Unyielding
-Tezzeret, Artifice Master
+Vraska the Unseen
+Ugin, the Spirit Dragon
+Ajani, the Greathearted
 Narset, Parter of Veils
 Teferi, Master of Time
 Tamiyo, Field Researcher
 Teferi, Who Slows the Sunset
-Bred for the Hunt
-Teleportation Circle
-Phyrexian Scriptures
-Wilderness Reclamation
-Glistening Oil
+Oath of Ajani
+Sphere of Safety
+As Foretold
+Rancor
 Smothering Tithe
 Oath of Teferi
 Rhystic Study
 Doubling Season
 Inexorable Tide
-Consulate Turret
-Jet Medallion
-Skullclamp
-Conjurer's Closet
-Decoction Module
+Sword of Hearth and Home
+Mind Stone
+Gonti's Aether Heart
+Mana Vault
+Sensei's Divining Top
+Talisman of Dominance
 Lightning Greaves
 Sword of Truth and Justice
 Contagion Engine
 Everflowing Chalice
 Astral Cornucopia
 Arcane Signet
-Multiform Wonder
-Aether Inspector
-Architect of the Untamed
-Plague Myr
-Corpsejack Menace
+Managorger Hydra
+Vorinclex, Voice of Hunger
+Toothy, Imaginary Friend
+Jin-Gitaxias, Core Augur
+Conclave Mentor
 Eddytrail Hawk
-Noble Hierarch
-Elesh Norn, Grand Cenobite
-Aethertide Whale
-Greenbelt Rampager
-Yarok, the Desecrated
-Priests of Norn
-Pir, Imaginative Rascal
+Viral Drake
+Aethersquall Ancient
+Minister of Inquiries
+Blighted Agent
+Thriving Turtle
 Fathom Mage
 Crystalline Crawler
 Spark Double

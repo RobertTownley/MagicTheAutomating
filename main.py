@@ -5,12 +5,11 @@ from cards import find_random_commander_for_colors
 from colors import choose_random_colors
 from decks import build_deck, save_deck
 from exceptions import DeckException
-from foo import bar
 from tribes import find_tribe_for_commander, get_all_tribes
 from theme import find_themes_for_commander, get_all_themes
 
 
-DECKS_TO_BUILD = 376
+DECKS_TO_BUILD = 1
 SELECTION_METHODOLOGY = 1
 
 

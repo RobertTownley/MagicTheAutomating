@@ -1,23 +1,20 @@
-Island
-Plains
 Forest
 Mountain
 Swamp
 Island
 Plains
-Plateau
-Sandsteppe Citadel
-Sunpetal Grove
-Arcane Sanctum
-Jungle Shrine
-Branchloft Pathway // Boulderloft Pathway
+Steam Vents
 City of Brass
-Serra's Sanctum
-Bonders' Enclave
-Snow-Covered Swamp
-Savai Triome
-Deathcap Glade
-Treasure Vault
+Animal Sanctuary
+Snow-Covered Island
+Flooded Strand
+Jungle Shrine
+Mana Confluence
+Wooded Foothills
+Arid Mesa
+Sundown Pass
+Misty Rainforest
+Tropical Island
 Maze's End
 Maze of Ith
 Gaea's Cradle
@@ -30,61 +27,64 @@ Urborg, Tomb of Yawgmoth
 Yavimaya, Cradle of Growth
 Ancient Tomb
 Reliquary Tower
-Sacred Foundry
-Shriekmaw
-Watery Grave
-Windfall
-Reshape the Earth
-Idyllic Tutor
-Haunting Voyage
+Bring to Light
+Overwhelming Stampede
+Genesis Ultimatum
+Time of Need
+Grow from the Ashes
 Rampant Growth
 Kodama's Reach
 Demonic Tutor
 Cultivate
 Farseek
-Dramatic Reversal
-Congregation at Dawn
-Heliod's Intervention
-Khalni Ambush // Khalni Territory
-White Sun's Zenith
-Veil of Summer
+Utter End
+Nature's Claim
+Silence
+Enlightened Tutor
+Grisly Salvage
+Assassin's Trophy
+Pyroblast
+Vampiric Tutor
 Swan Song
 Cyclonic Rift
 Beast Within
 Mystical Tutor
 Counterspell
 Swords to Plowshares
-Animate Dead
-Pyrohemia
-Zendikar Resurgent
-Sphere of Safety
-Paradox Haze
+Court of Grace
+Happily Ever After
+Cowardice
+Court of Ambition
+Omniscience
+Sylvan Library
 Mystic Remora
 Training Grounds
 Wilderness Reclamation
 Rhystic Study
 Smothering Tithe
-Mox Amber
-Isochron Scepter
-Arcane Signet
-Heroes' Podium
-Boros Signet
+Hero's Blade
+Urza's Incubator
+Temple Bell
+Mana Vault
 Heartstone
 Lightning Greaves
 Fellwar Stone
 Sol Ring
 Wedding Ring
-Seht's Tiger
-Regal Caracal
-Oketra the True
-God-Eternal Oketra
+Stalking Leonin
+Ajani's Pridemate
+Athreos, God of Passage
+Gilded Drake
+Keeper of Fables
 Fyndhorn Elves
-Llanowar Elves
-Callaphe, Beloved of the Sea
-Etali, Primal Storm
-Purphoros, God of the Forge
-Silverclad Ferocidons
-Dryad of the Ilysian Grove
+Notion Thief
+Avacyn's Pilgrim
+God-Eternal Kefnet
+Kefnet the Mindful
+Arahbo, Roar of the World
+Night Incarnate
+Solemn Simulacrum
+Noble Hierarch
 Faeburrow Elder
 Dockside Extortionist
 Esper Sentinel

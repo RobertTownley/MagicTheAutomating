@@ -1,0 +1,100 @@
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Volcanic Island
+Riverglide Pathway // Lavaglide Pathway
+Arid Mesa
+Nykthos, Shrine to Nyx
+Furycalm Snarl
+Glacial Floodplain
+Nimbus Maze
+Access Tunnel
+Azorius Chancery
+Urza's Saga
+Temple of the False God
+Hall of Heliod's Generosity
+Castle Vantress
+Ancient Tomb
+Mystic Sanctuary
+Reliquary Tower
+Sundown Pass
+Deserted Beach
+Stormcarved Coast
+Earthquake
+Wheel of Fortune
+Renegade Tactics
+Fabricate
+Fell the Mighty
+Winds of Abandon
+Windfall
+Jeska's Will
+Gitaxian Probe
+Faithless Looting
+Preordain
+Ponder
+Gilded Light
+Wrong Turn
+Battle Hymn
+Starstorm
+Benevolent Offering
+Crush Contraband
+Radiant's Judgment
+Generous Gift
+Boros Charm
+Fact or Fiction
+Opt
+Dovin's Veto
+Brainstorm
+Mystical Tutor
+Frantic Search
+Path to Exile
+Counterspell
+Swords to Plowshares
+Faithful Mending
+Consider
+Narset of the Ancient Way
+Teferi, Master of Time
+Narset, Parter of Veils
+Saheeli, Sublime Artificer
+Tide of War
+Reflections of Littjara
+Transcendence
+Land Tax
+Haunted Library
+Smothering Tithe
+Jeskai Ascendancy
+Sorcerer Class
+Impact Tremors
+Whirlwind of Thought
+Sky Diamond
+Thought Vessel
+Azorius Locket
+Ashnod's Altar
+Krark's Thumb
+Vanquisher's Banner
+Basilisk Collar
+Sensei's Divining Top
+Lightning Greaves
+Isochron Scepter
+Talisman of Progress
+Talisman of Conviction
+Talisman of Creativity
+Skullclamp
+Triskaidekaphile
+Rielle, the Everwise
+Ethereal Investigator
+Elesh Norn, Grand Cenobite
+Laboratory Maniac
+Elsha of the Infinite
+Young Pyromancer
+Talrand, Sky Summoner
+Archmage Emeritus
+Storm-Kiln Artist
+Harmonic Prodigy
+Kykar, Wind's Fury

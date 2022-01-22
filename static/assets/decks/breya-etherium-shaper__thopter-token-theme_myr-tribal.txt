@@ -2,20 +2,20 @@ Mountain
 Swamp
 Island
 Plains
+Shivan Reef
+Caves of Koilos
+Power Depot
+Ancient Tomb
 Sunhome, Fortress of the Legion
-Mystic Monastery
-Polluted Delta
-Savai Triome
-Vault of Champions
-Bloodstained Mire
-Temple of Triumph
-Sulfur Falls
-Temple of the False God
+Tomb of the Spirit Dragon
 Fabled Passage
-Urza's Tower
-Urza's Power Plant
-Raugrin Triome
-Glacial Fortress
+Temple of Triumph
+Volcanic Island
+Temple of the False God
+Bloodstained Mire
+Mirrodin's Core
+Nomad Outpost
+Scalding Tarn
 Urza's Saga
 Treasure Vault
 Academy Ruins
@@ -30,42 +30,41 @@ Deserted Beach
 Shattered Sanctum
 Shipwreck Marsh
 Stormcarved Coast
-Boros Garrison
-Saheeli's Directive
-Distant Melody
+Gamble
+Enlightened Tutor
+Raugrin Triome
+Terramorphic Expanse
+Steam Vents
+Path to Exile
+Saheeli's Artistry
+Merciless Eviction
+Trash for Treasure
 Demonic Tutor
 Fabricate
+Magmaquake
+Despark
+Dovin's Veto
 Galvanic Blast
-Red Elemental Blast
-Dark Ritual
-Spell Swindle
-Dramatic Reversal
-Cackling Counterpart
-Dispatch
-Enlightened Tutor
 Whir of Invention
 Counterspell
 Cyclonic Rift
 Swords to Plowshares
-Tezzeret, Agent of Bolas
-Saheeli, the Gifted
-Tezzeret, Master of the Bridge
+Tezzeret, Artifice Master
 Daretti, Scrap Savant
-Parasitic Implant
-Mechanized Production
+Phyrexian Arena
+Efficient Construction
+Thopter Spy Network
 Storm the Vault // Vault of Catlacan
 Smothering Tithe
-Mana Vault
-Mycosynth Lattice
-Talisman of Dominance
-Genesis Chamber
-Nevinyrral's Disk
+Mirrorworks
+Bident of Thassa
+Chromatic Orrery
+Expedition Map
+Barbed Spike
+Akroma's Memorial
+Obelisk of Urd
+Conjurer's Closet
 Wishclaw Talisman
-Myr Reservoir
-Unwinding Clock
-Nihil Spellbomb
-Talisman of Conviction
-Darksteel Forge
 Nim Deathmantle
 Krark-Clan Ironworks
 Sword of the Meek
@@ -75,17 +74,18 @@ Ashnod's Altar
 Thopter Foundry
 Skullclamp
 Moonsilver Key
-Tribute Mage
-Thopter Assembly
-Adaptive Automaton
-Breya's Apprentice
-Leaden Myr
-Sharuum the Hegemon
-Lodestone Myr
-Sharding Sphinx
-Omega Myr
+Flowstone Thopter
+Myr Retriever
+Losheel, Clockwork Scholar
+Coretapper
+Myr Servitor
 Teshar, Ancestor's Apostle
-Mycosynth Golem
+Lodestone Myr
+Pilgrim's Eye
+Bloodline Pretender
+Sharding Sphinx
+Brass Squire
+Sharuum the Hegemon
 Emry, Lurker of the Loch
 Baleful Strix
 Solemn Simulacrum

@@ -1,5 +1,3 @@
-Swamp
-Plains
 Mountain
 Swamp
 Plains
@@ -7,20 +5,16 @@ Mountain
 Swamp
 Plains
 Mountain
-Swamp
-Plains
-Mountain
-Swamp
-Plains
-Mountain
-Dragonskull Summit
-Caves of Koilos
-Blightstep Pathway // Searstep Pathway
-Geier Reach Sanitarium
-Spectator Seating
-Temple of Malice
-Command Tower
-Bonders' Enclave
+Darksteel Citadel
+Temple of Silence
+Verdant Catacombs
+Eiganjo Castle
+Scoured Barrens
+Needleverge Pathway // Pillarverge Pathway
+Emeria, the Sky Ruin
+Bloodfell Caves
+Windswept Heath
+Karn's Bastion
 Shizo, Death's Storehouse
 Castle Locthwain
 Urborg, Tomb of Yawgmoth
@@ -30,58 +24,64 @@ Rogue's Passage
 Haunted Ridge
 Sundown Pass
 Shattered Sanctum
-Strionic Resonator
-Faithless Looting
-Chaos Warp
-Arch of Orazca
-Approach of the Second Sun
-Curse of the Cabal
-Kirtar's Wrath
-Ondu Inversion // Ondu Skyruins
+Cleansing Nova
+Rite of Oblivion
+Last One Standing
+Sunscour
 Read the Bones
 Ruinous Ultimatum
 Mythos of Snapdax
 Night's Whisper
-Akroma's Will
+Starstorm
 Hero's Downfall
-Deflecting Swat
+Utter End
+Fracture
+Dark Ritual
+Anguished Unmaking
+Path to Exile
 Crackling Doom
 Despark
 Boros Charm
 Swords to Plowshares
-Gideon Blackblade
+Ugin, the Spirit Dragon
+Sorin, Vengeful Bloodlord
 Kaya the Inexorable
-Overwhelming Splendor
-Court of Grace
-Curse of Oblivion
+Marchesa's Decree
+Sphere of Safety
+Torment of Scarabs
 Offspring's Revenge
 Phyrexian Arena
 Smothering Tithe
-Thran Temporal Gateway
-Wayfarer's Bauble
+Coercive Portal
+Robe of Stars
+Mind Stone
+Arcane Signet
+Helm of the Host
+Cursed Mirror
 Chromatic Lantern
-Boompile
-Mask of Memory
+Sword of the Animist
 Lightning Greaves
 Shadowspear
 Talisman of Conviction
 Talisman of Hierarchy
 Swiftfoot Boots
 Mask of Griselbrand
-Thalia, Heretic Cathar
-Aurelia, the Warleader
-Tajic, Blade of the Legion
-Loyal Warhound
-Deathbringer Regent
-Mother of Runes
-Hand of the Praetors
+Archon of Sun's Grace
+Avacyn, Angel of Hope
+Plague Myr
+Labyrinth Raptor
+Magus of the Disk
+Contagious Nim
+Killian, Ink Duelist
+Razor Swine
 Core Prowler
-Windborn Muse
-Crystalline Giant
-Silent Arbiter
-Soul of New Phyrexia
-Bastion Protector
-Drannith Magistrate
+Varragoth, Bloodsky Sire
+Odric, Lunarch Marshal
+Gisela, Blade of Goldnight
+Skithiryx, the Blight Dragon
+Dreadhorde Butcher
+Heliod's Pilgrim
+Huntmaster Liger
 Kediss, Emberclaw Familiar
 Plague Stinger
 Porcuparrot

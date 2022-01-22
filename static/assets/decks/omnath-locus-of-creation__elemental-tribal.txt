@@ -3,21 +3,21 @@ Island
 Plains
 Forest
 Mountain
-Island
-Plains
-Forest
-Mountain
-Temple of Abandon
-Temple of Mystery
+Mystic Sanctuary
+Prismatic Vista
+Ghost Quarter
+Prairie Stream
+Windswept Heath
+Lumbering Falls
+Ketria Triome
+Rockfall Vale
+Verdant Catacombs
 Seaside Citadel
-Kessig Wolf Run
-Cascading Cataracts
-Snow-Covered Plains
-Blighted Woodland
-Temple Garden
-Snow-Covered Mountain
-Crawling Barrens
-Mystic Monastery
+Simic Growth Chamber
+Temple of Abandon
+Wooded Foothills
+Dryad Arbor
+Vesuva
 Thespian's Stage
 Ghost Town
 Oboro, Palace in the Clouds
@@ -30,59 +30,59 @@ Snow-Covered Island
 Snow-Covered Forest
 Stormcarved Coast
 Dreamroot Cascade
-Vandalblast
-Animist's Awakening
-Nahiri's Lithoforming
-Genesis Wave
-Nissa's Renewal
-Eldritch Evolution
-Explore
+Nature's Claim
+Rishkar's Expertise
+Wrath of God
+Idyllic Tutor
+Wargate
+Life from the Loam
+Hour of Promise
 Scapeshift
 Rampant Growth
 Kodama's Reach
 Farseek
 Cultivate
-Valakut Awakening // Valakut Stoneforge
-Eureka Moment
-Noxious Revival
-Mana Drain
-Force of Vigor
 Generous Gift
+Brainstorm
+Silence
+Naya Charm
+Sylvan Reclamation
 Crop Rotation
 Growth Spiral
 Harrow
 Counterspell
 Path to Exile
 Beast Within
-Nissa, Who Shakes the World
 Wrenn and Seven
-Teleportation Circle
-Aura Shards
-Elemental Bond
+Zendikar Resurgent
+Rhythm of the Wild
+Druid Class
+Mirari's Wake
 Valakut Exploration
 Zendikar's Roil
 Exploration
 Felidar Retreat
-Izzet Signet
-Pyre of Heroes
-Darksteel Ingot
+Panharmonicon
+Chromatic Lantern
+Urza's Incubator
 Seer's Sundial
 Horn of Greed
 Crucible of Worlds
-Tireless Provisioner
-Ingot Chewer
-Rubblehulk
-Yasharn, Implacable Earth
-Fertilid
-Oracle of Mul Daya
-Thunderkin Awakener
-Flamekin Harbinger
 Springbloom Druid
-Soul of the Harvest
-Voice of Resurgence
-Courser of Kruphix
-Endurance
-Cavalier of Thorns
+Nyxbloom Ancient
+Beanstalk Giant
+Tunneling Geopede
+Sakura-Tribe Scout
+Multani, Yavimaya's Avatar
+Flamekin Harbinger
+Thryx, the Sudden Storm
+Cosima, God of the Voyage // The Omenkeel
+Subtlety
+Knight of the Reliquary
+Thicket Crasher
+Gretchen Titchwillow
+Uro, Titan of Nature's Wrath
+Omnath, Locus of the Roil
 Aesi, Tyrant of Gyre Strait
 Dryad of the Ilysian Grove
 Ancient Greenwarden

@@ -1,0 +1,100 @@
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Volrath's Stronghold
+Strip Mine
+Vault of the Archangel
+Esper Panorama
+Cabal Stronghold
+Caves of Koilos
+Evolving Wilds
+Unholy Grotto
+Mortuary Mire
+Tundra
+Riptide Laboratory
+Phyrexian Tower
+Ancient Tomb
+Urborg, Tomb of Yawgmoth
+Bojuka Bog
+Reliquary Tower
+Minamo, School at Water's Edge
+Hall of Heliod's Generosity
+Shipwreck Marsh
+Deserted Beach
+Shattered Sanctum
+Glacial Fortress
+Agent of Erebos
+Faerie Seer
+Nyx Lotus
+Mystic Gate
+Strionic Resonator
+Entomb
+Urza's Saga
+Kindred Dominance
+Ponder
+Portent
+Winds of Rath
+Demonic Tutor
+Dance of the Manse
+Damn
+Reanimate
+Opt
+Tragic Slip
+Brainstorm
+Dovin's Veto
+Anguished Unmaking
+Counterspell
+Swords to Plowshares
+Cunning Rhetoric
+Smothering Tithe
+Bitterblossom
+Animate Dead
+All That Glitters
+Omen of the Sun
+Search for Azcanta // Azcanta, the Sunken Ruin
+Decree of Silence
+Rhystic Study
+Pemmin's Aura
+Induced Amnesia
+Dreadhorde Invasion
+Freed from the Real
+Treacherous Blessing
+Hatching Plans
+Phyrexian Arena
+Ghostly Prison
+Orzhov Locket
+Sentinel Totem
+Brainstone
+Talisman of Dominance
+Thornbite Staff
+Skullclamp
+Swiftfoot Boots
+Thousand-Year Elixir
+Lightning Greaves
+Tainted Adversary
+Eidolon of Rhetoric
+Cleaver Skaab
+Drannith Magistrate
+Starnheim Courser
+Silver Raven
+Solemn Simulacrum
+Shepherd of Rot
+Gray Merchant of Asphodel
+Zur the Enchanter
+Moon-Blessed Cleric
+Guile
+Reassembling Skeleton
+Lullmage Mentor
+Blood Artist
+Ophiomancer
+Morbid Opportunist
+Jadar, Ghoulcaller of Nephalia
+Ertai, the Corrupted

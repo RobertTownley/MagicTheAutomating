@@ -1,0 +1,100 @@
+Island
+Forest
+Mountain
+Island
+Forest
+Mountain
+Island
+Forest
+Swiftwater Cliffs
+Wandering Fumarole
+Desolate Lighthouse
+Scalding Tarn
+City of Brass
+Flooded Strand
+Thornwood Falls
+Endless Sands
+Guildless Commons
+Seat of the Synod
+Karn's Bastion
+High Market
+Alchemist's Refuge
+Mosswort Bridge
+Command Beacon
+Castle Garenbrig
+Kessig Wolf Run
+Yavimaya, Cradle of Growth
+Sanctum of Eternity
+Ancient Tomb
+Reliquary Tower
+Temple of the False God
+Rockfall Vale
+Dreamroot Cascade
+Kodama of the East Tree
+Simic Ascendancy
+Temur Ascendancy
+Keruga, the Macrosage
+Volcanic Island
+Panharmonicon
+Replication Technique
+Animist's Awakening
+Cartographer's Survey
+Boundless Realms
+Guided Passage
+Body of Research
+Nature's Lore
+Rampant Growth
+Farseek
+Kodama's Reach
+Cultivate
+Skyshroud Claim
+Genesis Ultimatum
+Spring // Mind
+Sudden Substitution
+Bolt Bend
+Chaos Warp
+Brainstorm
+Beast Within
+Chandra, Flamecaller
+Kiora, Behemoth Beckoner
+Court of Bounty
+Fiery Emancipation
+Heartbeat of Spring
+Sylvan Library
+Garruk's Uprising
+Zendikar Resurgent
+Sunbird's Invocation
+Hedron Archive
+Wirefly Hive
+Mind Stone
+Worn Powerstone
+Sensei's Divining Top
+Scroll Rack
+Crystal Shard
+Sol Ring
+Karplusan Minotaur
+Creeping Trailblazer
+Niv-Mizzet, Parun
+Coiling Oracle
+Drakuseth, Maw of Flames
+Incandescent Soulstoke
+Yavimaya Dryad
+Shaman of the Great Hunt
+Tavern Scoundrel
+Kiki-Jiki, Mirror Breaker
+Sakura-Tribe Elder
+Peregrine Drake
+Surrak Dragonclaw
+Inferno Titan
+Aurora Phoenix
+Bloodbraid Elf
+Apex Devastator
+Etali, Primal Storm
+Averna, the Chaos Bloom
+Imoti, Celebrant of Bounty
+Pathbreaker Ibex
+Temur Sabertooth
+Augur of Autumn
+Hullbreaker Horror
+Cultivator Colossus
+Maelstrom Wanderer

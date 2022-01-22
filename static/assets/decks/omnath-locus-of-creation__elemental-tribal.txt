@@ -3,21 +3,21 @@ Island
 Plains
 Forest
 Mountain
-Mystic Sanctuary
-Prismatic Vista
-Ghost Quarter
-Prairie Stream
-Windswept Heath
-Lumbering Falls
-Ketria Triome
-Rockfall Vale
-Verdant Catacombs
-Seaside Citadel
-Simic Growth Chamber
-Temple of Abandon
-Wooded Foothills
+Island
+Plains
+Forest
+Mountain
+Savannah
+Overgrown Farmland
+Azorius Chancery
 Dryad Arbor
-Vesuva
+Polluted Delta
+Path of Ancestry
+Verdant Catacombs
+Flamekin Village
+Mystic Monastery
+Mystic Sanctuary
+Hallowed Fountain
 Thespian's Stage
 Ghost Town
 Oboro, Palace in the Clouds
@@ -30,59 +30,59 @@ Snow-Covered Island
 Snow-Covered Forest
 Stormcarved Coast
 Dreamroot Cascade
-Nature's Claim
-Rishkar's Expertise
-Wrath of God
-Idyllic Tutor
-Wargate
-Life from the Loam
-Hour of Promise
+Eureka Moment
+Primal Beyond
+Mana Confluence
+Snow-Covered Plains
+Blasphemous Act
+Decimate
+Harmonize
+Cleansing Nova
 Scapeshift
 Rampant Growth
 Kodama's Reach
 Farseek
 Cultivate
-Generous Gift
-Brainstorm
-Silence
-Naya Charm
+Valakut Awakening // Valakut Stoneforge
 Sylvan Reclamation
+Negate
+Pact of Negation
+Fierce Guardianship
 Crop Rotation
 Growth Spiral
 Harrow
 Counterspell
 Path to Exile
 Beast Within
+Nissa, Worldwaker
+Nissa, Vital Force
 Wrenn and Seven
-Zendikar Resurgent
+Abundance
 Rhythm of the Wild
-Druid Class
-Mirari's Wake
+Guardian Project
+Sylvan Library
+Retreat to Coralhelm
 Valakut Exploration
 Zendikar's Roil
 Exploration
 Felidar Retreat
-Panharmonicon
-Chromatic Lantern
-Urza's Incubator
-Seer's Sundial
+Swiftfoot Boots
 Horn of Greed
 Crucible of Worlds
-Springbloom Druid
-Nyxbloom Ancient
-Beanstalk Giant
-Tunneling Geopede
-Sakura-Tribe Scout
-Multani, Yavimaya's Avatar
-Flamekin Harbinger
-Thryx, the Sudden Storm
-Cosima, God of the Voyage // The Omenkeel
-Subtlety
-Knight of the Reliquary
-Thicket Crasher
-Gretchen Titchwillow
+Foundation Breaker
+Emeria Shepherd
+Chandra's Embercat
 Uro, Titan of Nature's Wrath
-Omnath, Locus of the Roil
+Smokebraider
+Sakura-Tribe Scout
+Rubblehulk
+Brighthearth Banneret
+Flamekin Harbinger
+Ruin Ghost
+Cosima, God of the Voyage // The Omenkeel
+Risen Reef
+Maelstrom Wanderer
+Radha, Heart of Keld
 Aesi, Tyrant of Gyre Strait
 Dryad of the Ilysian Grove
 Ancient Greenwarden

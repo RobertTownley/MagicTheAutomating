@@ -1,0 +1,100 @@
+Island
+Forest
+Swamp
+Island
+Forest
+Swamp
+Island
+Forest
+Swamp
+Island
+Forest
+Swamp
+Access Tunnel
+Clearwater Pathway // Murkwater Pathway
+Cabal Coffers
+Undergrowth Stadium
+Halimar Depths
+Overgrown Tomb
+Barren Moor
+Drowned Catacomb
+Desert of the Mindful
+Misty Rainforest
+Urborg, Tomb of Yawgmoth
+Yavimaya, Cradle of Growth
+Bojuka Bog
+Lair of the Hydra
+Temple of the False God
+Rogue's Passage
+Reliquary Tower
+Shipwreck Marsh
+Deathcap Glade
+Dreamroot Cascade
+Finale of Eternity
+Otherworldly Gaze
+Mosswort Bridge
+Selvala, Heart of the Wilds
+Living Death
+Contentious Plan
+Scale Up
+Mind Spring
+Far Wanderings
+Visions of Dominance
+Open into Wonder
+Kodama's Reach
+Cultivate
+Torment of Hailfire
+Finale of Revelation
+Profane Command
+Villainous Wealth
+Curse of the Swine
+Animist's Awakening
+Grapple with the Past
+Carrion Call
+Putrefy
+Return of the Wildspeaker
+Withstand Death
+Pull from Tomorrow
+Blue Sun's Zenith
+Thassa's Intervention
+Beast Within
+Drown in Dreams
+Liliana, Death's Majesty
+Kiora, Behemoth Beckoner
+Nissa, Steward of Elements
+Wild Growth
+Animate Dead
+Garruk's Uprising
+Unbound Flourishing
+The Meathook Massacre
+Sword of Truth and Justice
+Mana Crypt
+Contagion Clasp
+Swiftfoot Boots
+Arcane Signet
+Sol Ring
+Blightsteel Colossus
+Nyxbloom Ancient
+Walking Ballista
+Looter il-Kor
+Elvish Mystic
+Altered Ego
+Core Prowler
+Polukranos, Unchained
+Syr Konrad, the Grim
+Corpse Connoisseur
+Ramunap Excavator
+Elves of Deep Shadow
+Gargos, Vicious Watcher
+Stonecoil Serpent
+Corpsejack Menace
+Hooded Hydra
+Mistcutter Hydra
+Hydroid Krasis
+Vastwood Hydra
+Steelbane Hydra
+Genesis Hydra
+Voracious Hydra
+Hungering Hydra
+Managorger Hydra
+Zaxara, the Exemplary

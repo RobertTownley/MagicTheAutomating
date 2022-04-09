@@ -1,0 +1,100 @@
+Island
+Mountain
+Swamp
+Island
+Mountain
+Swamp
+Island
+Mountain
+Swamp
+Island
+Mountain
+Swamp
+Island
+City of Brass
+Mage-Ring Network
+Halimar Depths
+Watery Grave
+Misty Rainforest
+Sulfur Falls
+Myriad Landscape
+Sanctum of Eternity
+Morphic Pool
+Rogue's Passage
+Ancient Tomb
+Urborg, Tomb of Yawgmoth
+Riptide Laboratory
+Temple of the False God
+Mystic Sanctuary
+Bojuka Bog
+Reliquary Tower
+Shipwreck Marsh
+Stormcarved Coast
+Talent of the Telepath
+Izzet Signet
+Verdant Catacombs
+Gamble
+Dimir Aqueduct
+Fury Storm
+Ponder
+Dark Petition
+Rousing Refrain
+Tasha's Hideous Laughter
+Solve the Equation
+Grapeshot
+Phthisis
+Stolen Identity
+Worst Fears
+Army of the Damned
+Blatant Thievery
+Mnemonic Deluge
+In Garruk's Wake
+Spelltwine
+Fevered Suspicion
+Night's Whisper
+Rise of the Dark Realms
+Bedevil
+Impulse
+You Find Some Prisoners
+Mana Drain
+Rakdos Charm
+Unsubstantiate
+Lightning Bolt
+Memory Plunder
+Terminate
+Dark Ritual
+Narset's Reversal
+Cyclonic Rift
+Counterspell
+Brainstorm
+Frantic Search
+Mystical Tutor
+Siphon Insight
+The Mirari Conjecture
+Rhystic Study
+Curse of Hospitality
+Arcane Signet
+Bolas's Citadel
+Worn Powerstone
+Talisman of Indulgence
+Chrome Mox
+Whispersilk Cloak
+Strionic Resonator
+Talisman of Dominance
+Fellwar Stone
+Talisman of Creativity
+Lightning Greaves
+Swiftfoot Boots
+Wandering Archaic // Explore the Vastlands
+Archaeomancer
+Murmuring Mystic
+Veyran, Voice of Duality
+Xanathar, Guild Kingpin
+Nightveil Specter
+Kess, Dissident Mage
+Thief of Sanity
+Etali, Primal Storm
+Wild-Magic Sorcerer
+Harmonic Prodigy
+Jacob Hauken, Inspector // Hauken's Insight
+Jeleva, Nephalia's Scourge

@@ -1,0 +1,100 @@
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Plains
+Mountain
+Island
+Castle Ardenvale
+Temple of Enlightenment
+Prismatic Vista
+Hallowed Fountain
+Castle Embereth
+Mystic Sanctuary
+Mystic Monastery
+Ancient Tomb
+Buried Ruin
+Windswept Heath
+Needle Spires
+Sacred Foundry
+Reliquary Tower
+Desert of the Fervent
+Desert of the True
+Desert of the Mindful
+Smoldering Crater
+Drifting Meadow
+Forgotten Cave
+Secluded Steppe
+Lonely Sandbar
+Stormcarved Coast
+Swords to Plowshares
+Scavenger Grounds
+Saheeli, Sublime Artificer
+Aria of Flame
+Remote Isle
+Deserted Beach
+Arid Mesa
+Angelfire Ignition
+Boon of the Wish-Giver
+Supreme Verdict
+Open the Armory
+Dismantling Wave
+Decree of Justice
+Akroma's Vengeance
+Change of Fortune
+Shadow Rift
+Brainstorm
+Rescind
+Angelsong
+Titan's Strength
+Zenith Flare
+Countervailing Winds
+Fierce Guardianship
+Forsake the Worldly
+Hieroglyphic Illumination
+Neutralize
+Crystalline Resonance
+Myth Realized
+Spirit Cairn
+Staggering Insight
+Astral Slide
+Metallurgic Summonings
+Teferi's Ageless Insight
+Drake Haven
+New Perspectives
+Cast Out
+Tectonic Reformation
+Astral Drift
+Boros Cluestone
+Mirage Mirror
+Primal Amulet // Primal Wellspring
+Chromatic Lantern
+Sensei's Divining Top
+Alhammarret's Archive
+Abandoned Sarcophagus
+Raugrin Crystal
+Fluctuator
+Arcane Signet
+Sol Ring
+Timeless Dragon
+Archaeomancer
+Toothy, Imaginary Friend
+Cloudblazer
+Talrand, Sky Summoner
+Thassa's Oracle
+Angel of the Ruins
+Vedalken Aethermage
+Shu Yun, the Silent Tempest
+Brallin, Skyshark Rider
+Drannith Stinger
+Vizier of Tumbling Sands
+The Locust God
+Valiant Rescuer
+Curator of Mysteries
+Nimble Obstructionist
+Triskaidekaphile
+Ethereal Investigator
+Gavi, Nest Warden

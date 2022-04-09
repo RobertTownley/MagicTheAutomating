@@ -9,7 +9,7 @@ from tribes import find_tribe_for_commander, get_all_tribes
 from theme import find_themes_for_commander, get_all_themes
 
 
-DECKS_TO_BUILD = 1
+DECKS_TO_BUILD = 3
 
 
 def run():

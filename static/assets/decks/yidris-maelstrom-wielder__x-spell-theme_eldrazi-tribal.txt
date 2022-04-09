@@ -1,4 +1,3 @@
-Island
 Forest
 Mountain
 Swamp
@@ -7,17 +6,18 @@ Forest
 Mountain
 Swamp
 Island
-Lair of the Hydra
-Geier Reach Sanitarium
-Scalding Tarn
-Urza's Tower
-Bonders' Enclave
-Breeding Pool
-Raging Ravine
-Mortuary Mire
-Savage Lands
-Tropical Island
-Emergence Zone
+Izzet Boilerworks
+Undergrowth Stadium
+Homeward Path
+Buried Ruin
+Command Tower
+Eye of Ugin
+Dimir Aqueduct
+Eldrazi Temple
+Mirrorpool
+Riverglide Pathway // Lavaglide Pathway
+Arch of Orazca
+Scavenger Grounds
 Field of the Dead
 Ancient Tomb
 Temple of the False God
@@ -30,18 +30,15 @@ Shipwreck Marsh
 Stormcarved Coast
 Dreamroot Cascade
 Deathcap Glade
-Treasure Vault
-Blood Crypt
-Thousand-Year Storm
-Eldrazi Monument
-Culling Ritual
-Ancient Stirrings
-Tempt with Discovery
-Jeska's Will
-Skittering Invasion
-Introduction to Prophecy
+Baral's Expertise
+Harmonize
+Explosive Vegetation
+Wheel of Misfortune
+Bring to Light
 Decimate
-Gaea's Will
+Skyshroud Claim
+Slip Through Space
+Torment of Hailfire
 Ancestral Vision
 Demonic Tutor
 Treasure Cruise
@@ -51,43 +48,46 @@ Windfall
 Cultivate
 Farseek
 Profane Tutor
-Dramatic Reversal
-Ad Nauseam
-Complete Disregard
+Terminate
+Bituminous Blast
+Double Major
 Noxious Revival
-Chord of Calling
-Lunar Frenzy
+Valakut Awakening // Valakut Stoneforge
 Dark Ritual
 Mystical Tutor
 Chaos Warp
 Brainstorm
 Frantic Search
 Consider
-Colossal Majesty
-Sorcerer Class
+Domri, Anarch of Bolas
+Professor Onyx
+Narset, Parter of Veils
+Fiery Emancipation
+Rogue Class
+Spreading Plague
+Sylvan Library
+Song of Creation
+Rhystic Study
 Underworld Breach
 Sunbird's Invocation
-Mox Diamond
-Worn Powerstone
-Mirage Mirror
-Mage Slayer
-Replicating Ring
-Sensei's Divining Top
+Oblivion Stone
+Akroma's Memorial
+Fractal Harness
+Fractured Powerstone
 Aetherflux Reservoir
 Whispersilk Cloak
 Lightning Greaves
 Fellwar Stone
 Swiftfoot Boots
+Blight Herder
+Tatyova, Benthic Druid
 Bloom Tender
-Meteor Golem
-Nimbus Swimmer
-Brood Butcher
-Zaxara, the Exemplary
-Kodama of the East Tree
-Deepfathom Skulker
-Sifter of Skulls
-Endbringer
-Aurora Phoenix
+Spark Double
+Sire of Stagnation
+Matter Reshaper
+Annoyed Altisaur
+Boarding Party
+Birthing Hulk
 Bloodbraid Elf
 Ignoble Hierarch
 Apex Devastator

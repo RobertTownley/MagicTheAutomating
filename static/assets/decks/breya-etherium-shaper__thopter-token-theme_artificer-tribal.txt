@@ -1,0 +1,100 @@
+Mountain
+Swamp
+Island
+Plains
+Temple of the False God
+Tundra
+Training Center
+Polluted Delta
+Command Tower
+Exotic Orchard
+Glacial Fortress
+Hallowed Fountain
+Scalding Tarn
+Caves of Koilos
+Clifftop Retreat
+City of Brass
+Sulfur Falls
+Blood Crypt
+Urza's Saga
+Treasure Vault
+Academy Ruins
+Buried Ruin
+Darksteel Citadel
+Inventors' Fair
+Ancient Den
+Great Furnace
+Vault of Whispers
+Seat of the Synod
+Deserted Beach
+Shattered Sanctum
+Shipwreck Marsh
+Stormcarved Coast
+Thirst for Knowledge
+Bronze Guardian
+Vandalblast
+Sculpting Steel
+Bident of Thassa
+Metallic Mimic
+Wheel of Fortune
+Merciless Eviction
+Trash for Treasure
+Demonic Tutor
+Fabricate
+Tainted Pact
+Chain of Vapor
+Despark
+Dispel
+Anguished Unmaking
+Enlightened Tutor
+Whir of Invention
+Counterspell
+Cyclonic Rift
+Swords to Plowshares
+Saheeli Rai
+Tezzeret, Master of the Bridge
+Daretti, Scrap Savant
+Teleportation Circle
+Hidden Stockpile
+Storm the Vault // Vault of Catlacan
+Smothering Tithe
+Blinkmoth Urn
+Obelisk of Urd
+Lithoform Engine
+Soul-Guide Lantern
+Nevinyrral's Disk
+Strixhaven Stadium
+Mind Stone
+Talisman of Hierarchy
+Talisman of Creativity
+Darksteel Forge
+Nim Deathmantle
+Krark-Clan Ironworks
+Sword of the Meek
+Fellwar Stone
+Time Sieve
+Ashnod's Altar
+Thopter Foundry
+Skullclamp
+Moonsilver Key
+Glasspool Mimic // Glasspool Shore
+Eldrazi Displacer
+Thopter Assembly
+Thassa, Deep-Dwelling
+Soulherder
+Wing Splicer
+Arcum Dagsson
+Sage of Lat-Nam
+Drill-Skimmer
+Skyscanner
+Baleful Strix
+Solemn Simulacrum
+Oswald Fiddlebender
+Myr Battlesphere
+Goblin Welder
+Jhoira, Weatherlight Captain
+Esper Sentinel
+Padeem, Consul of Innovation
+Sai, Master Thopterist
+Etherium Sculptor
+Breya, Etherium Shaper

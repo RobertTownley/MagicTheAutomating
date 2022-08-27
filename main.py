@@ -1,5 +1,3 @@
-import typing as T
-
 from assets import download_assets
 from cards import find_random_commander_for_colors
 from colors import choose_random_colors
@@ -9,7 +7,7 @@ from tribes import find_tribe_for_commander, get_all_tribes
 from theme import find_themes_for_commander, get_all_themes
 
 
-DECKS_TO_BUILD = 10
+DECKS_TO_BUILD = 9
 
 
 def run():

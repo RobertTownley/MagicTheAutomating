@@ -1,0 +1,100 @@
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Swamp
+Island
+Plains
+Temple of Enlightenment
+Celestial Colonnade
+Ghost Quarter
+Fabled Passage
+Sunken Hollow
+Watery Grave
+Havengul Laboratory
+Prismatic Vista
+Vault of Whispers
+Temple of Silence
+Ancient Tomb
+Eiganjo, Seat of the Empire
+Mystic Sanctuary
+Temple of the False God
+Urborg, Tomb of Yawgmoth
+Otawara, Soaring City
+Rogue's Passage
+Bojuka Bog
+Reliquary Tower
+Raffine's Tower
+Order of Succession
+Toxic Deluge
+Bite of the Black Rose
+Treasure Cruise
+Demonic Tutor
+Supreme Verdict
+Damn
+Open the Armory
+Crux of Fate
+Narset's Reversal
+Ephemerate
+Brainstorm
+Chemister's Insight
+Disallow
+Cryptic Command
+Illusion of Choice
+Sphinx's Revelation
+Cyclonic Rift
+Arcane Denial
+Anguished Unmaking
+Path to Exile
+Despark
+Dovin's Veto
+Counterspell
+Swords to Plowshares
+Void Rend
+Narset, Parter of Veils
+Land Tax
+Search for Azcanta
+Sphere of Safety
+Eldrazi Conscription
+Phyresis
+All That Glitters
+Ghostly Prison
+Rhystic Study
+Smothering Tithe
+Hedron Archive
+Worn Powerstone
+Nettlecyst
+Everflowing Chalice
+Spectral Searchlight
+Pendant of Prosperity
+Sword of Hearth and Home
+Lightning Greaves
+Sword of the Animist
+Shadowspear
+Swiftfoot Boots
+Wayfarer's Bauble
+Vorpal Sword
+Fireshrieker
+Blackblade Reforged
+Orzhov Advokist
+Containment Priest
+Gwafa Hazid, Profiteer
+Overcharged Amalgam
+Fatespinner
+Dream Eater
+Messenger Jays
+Ballot Broker
+Solemn Simulacrum
+Notion Thief
+Slitherwisp
+Aboleth Spawn
+Cunning Nightbonder
+Hullbreaker Horror
+Deep Gnome Terramancer
+Windshaper Planetar
+Archivist of Oghma
+Chromium, the Mutable

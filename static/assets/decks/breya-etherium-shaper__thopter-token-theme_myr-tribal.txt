@@ -1,100 +1,100 @@
 Swamp
 Island
 Plains
-Mountain
-Swamp
-Island
-Plains
-Morphic Pool
-Mirrorpool
-Volcanic Island
-Rogue's Passage
-Mystic Monastery
-Training Center
-Tundra
-Clifftop Retreat
-Underground Sea
-Foundry of the Consuls
-Cascade Bluffs
-Scalding Tarn
-Bojuka Bog
-Academy Ruins
+Mirrodin's Core
+Izzet Boilerworks
+Riverglide Pathway
+Plateau
+Polluted Delta
+Command Tower
+Fabled Passage
+Sea of Clouds
+Urza's Mine
+Sunhome, Fortress of the Legion
+Mana Confluence
+Terramorphic Expanse
+Reliquary Tower
+Treasure Vault
+Urza's Saga
 Buried Ruin
-Darksteel Citadel
+Academy Ruins
 Inventors' Fair
+Darksteel Citadel
+Vault of Whispers
 Ancient Den
 Great Furnace
-Vault of Whispers
 Seat of the Synod
-Deserted Beach
-Shattered Sanctum
-Shipwreck Marsh
-Stormcarved Coast
-Treasure Vault
-Tezzeret the Seeker
-Wheel of Misfortune
-Urza's Saga
-Phyrexian Rebirth
-Preordain
-Trash for Treasure
-Demonic Tutor
+Xander's Lounge
+Raffine's Tower
+Damn
+Sevinne's Reclamation
+Toxic Deluge
 Fabricate
+Demonic Tutor
+Organic Extinction
+Disruption Protocol
+Pongify
+Dramatic Reversal
 Flusterstorm
-Paradoxical Outcome
-Masterful Replication
-Tainted Pact
-Enlightened Tutor
+Teferi's Protection
 Whir of Invention
 Counterspell
 Cyclonic Rift
 Swords to Plowshares
-Narset, Parter of Veils
+Void Rend
+Tezzeret, Artifice Master
+Karn, the Great Creator
+Tezzeret, Master of the Bridge
 Daretti, Scrap Savant
-Debtors' Knell
-Necropotence
-Storm the Vault // Vault of Catlacan
+Tezzeret, Betrayer of Flesh
+Monologue Tax
+Reflections of Littjara
+Storm the Vault
+Thopter Spy Network
 Smothering Tithe
-Trading Post
-Genesis Chamber
-Mycosynth Lattice
-Mana Crypt
-Azorius Signet
-Herald's Horn
-Spine of Ish Sah
+Scourglass
+Lightning Greaves
+Helm of the Host
+Mobilizer Mech
+Chromatic Orrery
+Cloud Key
+Thran Dynamo
+Bolas's Citadel
 Manifold Key
-Chrome Mox
-Lux Cannon
-Ichor Wellspring
+Liquimetal Torque
+Nevinyrral's Disk
+Unwinding Clock
 Darksteel Forge
+Ichor Wellspring
 Nim Deathmantle
 Krark-Clan Ironworks
 Sword of the Meek
+Ashnod's Altar
 Fellwar Stone
 Time Sieve
-Ashnod's Altar
 Thopter Foundry
 Skullclamp
-Moonsilver Key
-Sharding Sphinx
-Arcum Dagsson
-Thopter Squadron
-Spined Thopter
-Hangarback Walker
-Pia and Kiran Nalaar
-Myr Landshaper
-Steel Overseer
-Thopter Assembly
-Thassa, Deep-Dwelling
-Aspiring Aeronaut
-Emry, Lurker of the Loch
-Baleful Strix
-Solemn Simulacrum
+Hope of Ghirapur
+Perilous Myr
+Myr Propagator
+Coretapper
 Oswald Fiddlebender
-Myr Battlesphere
+Brass Squire
+Losheel, Clockwork Scholar
+Research Thief
+Whirler Virtuoso
+Urza, Lord High Artificer
+Breya's Apprentice
 Goblin Welder
-Jhoira, Weatherlight Captain
+Emry, Lurker of the Loch
 Esper Sentinel
+Solemn Simulacrum
+Baleful Strix
+Enthusiastic Mechanaut
+Jhoira, Weatherlight Captain
 Padeem, Consul of Innovation
 Sai, Master Thopterist
 Etherium Sculptor
+Ingenious Artillerist
+Jan Jansen, Chaos Crafter
 Breya, Etherium Shaper
